@@ -64,19 +64,24 @@
   - Kindle（第10代）:[中文](https://s3.amazonaws.com/firmwarereleasenotes/update_kindle_10th/AAHKV2X7AFYLW/zh_CN.html)、[English](https://s3.amazonaws.com/firmwarereleasenotes/update_kindle_10th/ATVPDKIKX0DER/en_US.html)
   - Kindle（第8代）:[中文](https://s3.amazonaws.com/firmwarereleasenotes/update_kindle_8th/AAHKV2X7AFYLW/zh_CN.html)、[English](https://s3.amazonaws.com/firmwarereleasenotes/update_kindle_8th/ATVPDKIKX0DER/en_US.html)
 
+### 版本 5.13.4 Dec 1 2020
+本次更新包括：
+ - **扩展主页内容**：您可在主页滚动查看多达 5 页内容。
+ - 性能改善、问题修复及其他一般性功能加强。
+ - [Kindle Oasis（第10代）](https://s3.amazonaws.com/firmwaredownloads/update_kindle_all_new_oasis_v2_5.13.4.bin)
+ - [Kindle Paperwhite（第10代）](https://s3.amazonaws.com/firmwaredownloads/update_kindle_all_new_paperwhite_v2_5.13.4.bin)
+ - [Kindle（第10代）](https://s3.amazonaws.com/firmwaredownloads/update_kindle_10th_5.13.4.bin)
+ - [Kindle Oasis（第9代）](https://s3.amazonaws.com/firmwaredownloads/update_kindle_all_new_oasis_5.13.4.bin)
+ - [Kindle Oasis（第8代）](https://s3.amazonaws.com/firmwaredownloads/update_kindle_oasis_5.13.4.bin)
+ - [Kindle（第8代）](https://s3.amazonaws.com/firmwaredownloads/update_kindle_8th_5.13.4.bin)
+ - [Kindle Voyage（第7代）](https://s3.amazonaws.com/firmwaredownloads/update_kindle_voyage_5.13.4.bin)
+ - [Kindle Paperwhite（第7代）](https://s3.amazonaws.com/firmwaredownloads/update_kindle_all_new_paperwhite_5.13.4.bin)
+
 ### 版本 5.13.3 Oct 9 2020
 本次更新包括：
  - **Kindle 用户指南**：“Kindle 用户指南”已移至“设置”中的“帮助”菜单。 旧版指南保存在您的内容库结尾处的用户指南文件夹中。
  - **主页上显示 Kindle Unlimited / Prime 标志**：用户可查看其家庭推荐中的哪本书可以从 Kindle Unlimited 或 Prime 阅读免费借阅。
  - 性能改善、问题修复及其他一般性功能加强。
- - [Kindle Oasis（第10代）](https://s3.amazonaws.com/firmwaredownloads/update_kindle_all_new_oasis_v2_5.13.3.bin)
- - [Kindle Paperwhite（第10代）](https://s3.amazonaws.com/firmwaredownloads/update_kindle_all_new_paperwhite_v2_5.13.3.bin)
- - [Kindle（第10代）](https://s3.amazonaws.com/firmwaredownloads/update_kindle_10th_5.13.3.bin)
- - [Kindle Oasis（第9代）](https://s3.amazonaws.com/firmwaredownloads/update_kindle_all_new_oasis_5.13.3.bin)
- - [Kindle Oasis（第8代）](https://s3.amazonaws.com/firmwaredownloads/update_kindle_oasis_5.13.3.bin)
- - [Kindle（第8代）](https://s3.amazonaws.com/firmwaredownloads/update_kindle_8th_5.13.3.bin)
- - [Kindle Voyage（第7代）](https://s3.amazonaws.com/firmwaredownloads/update_kindle_voyage_5.13.3.bin)
- - [Kindle Paperwhite（第7代）](https://s3.amazonaws.com/firmwaredownloads/update_kindle_all_new_paperwhite_5.13.3.bin)
 
 ### 版本 5.13.2 Aug 20 2020
   - 性能改善、问题修复、及其他一般性功能加强。

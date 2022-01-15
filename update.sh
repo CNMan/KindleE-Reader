@@ -8,6 +8,7 @@ curl https://www.amazon.com/update_Kindle_Oasis_10th_Gen | sed 's/"/\n/g' | grep
 curl https://www.amazon.com/update_Kindle_Paperwhite_6th_Gen | sed 's/"/\n/g' | grep bin >>tmp
 curl https://www.amazon.com/update_Kindle_Paperwhite_7th_Gen | sed 's/"/\n/g' | grep bin >>tmp
 curl https://www.amazon.com/update_Kindle_Paperwhite_10th_Gen | sed 's/"/\n/g' | grep bin >>tmp
+curl https://www.amazon.com/update_Kindle_Paperwhite_11th_Gen | sed 's/"/\n/g' | grep bin >>tmp
 curl https://www.amazon.com/update_Kindle_Voyage_7th_Gen | sed 's/"/\n/g' | grep bin >>tmp
 wget https://s3.amazonaws.com/firmwarereleasenotes/update_kindle_all_new_oasis_v2/AAHKV2X7AFYLW/zh_CN.html -O Kindle_Oasis_10th_zh.html
 wget https://s3.amazonaws.com/firmwarereleasenotes/update_kindle_all_new_oasis_v2/ATVPDKIKX0DER/en_US.html -O Kindle_Oasis_10th_en.html
@@ -25,6 +26,8 @@ wget https://s3.amazonaws.com/firmwarereleasenotes/update_kindle_10th/AAHKV2X7AF
 wget https://s3.amazonaws.com/firmwarereleasenotes/update_kindle_10th/ATVPDKIKX0DER/en_US.html -O Kindle_10th_en.html
 wget https://s3.amazonaws.com/firmwarereleasenotes/update_kindle_8th/AAHKV2X7AFYLW/zh_CN.html -O Kindle_8th_zh.html
 wget https://s3.amazonaws.com/firmwarereleasenotes/update_kindle_8th/ATVPDKIKX0DER/en_US.html -O Kindle_8th_en.html
+wget https://s3.amazonaws.com/firmwarereleasenotes/update_kindle_all_new_paperwhite_11th/AAHKV2X7AFYLW/zh_CN.html -O Kindle_Paperwhite_11th_zh.html
+wget https://s3.amazonaws.com/firmwarereleasenotes/update_kindle_all_new_paperwhite_11th/ATVPDKIKX0DER/en_US.html -O Kindle_Paperwhite_11th_en.html
 cat tmp | sort | uniq >KindleE-ReaderSoftwareUpdates
 rm tmp
 git add .

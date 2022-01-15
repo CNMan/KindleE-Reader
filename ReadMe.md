@@ -59,27 +59,41 @@
   - Kindle Oasis（第9代）:[中文](https://s3.amazonaws.com/firmwarereleasenotes/update_kindle_all_new_oasis/AAHKV2X7AFYLW/zh_CN.html)、[English](https://s3.amazonaws.com/firmwarereleasenotes/update_kindle_all_new_oasis/ATVPDKIKX0DER/en_US.html)
   - Kindle Oasis（第8代）:[中文](https://s3.amazonaws.com/firmwarereleasenotes/update_kindle_oasis/AAHKV2X7AFYLW/zh_CN.html)、[English](https://s3.amazonaws.com/firmwarereleasenotes/update_kindle_oasis/ATVPDKIKX0DER/en_US.html)
   - Kindle Voyage（第7代）:[中文](https://s3.amazonaws.com/firmwarereleasenotes/update_kindle_voyage/AAHKV2X7AFYLW/zh_CN.html)、[English](https://s3.amazonaws.com/firmwarereleasenotes/update_kindle_voyage/ATVPDKIKX0DER/en_US.html)
+  - Kindle Paperwhite（第11代）:[中文](https://s3.amazonaws.com/firmwarereleasenotes/update_kindle_all_new_paperwhite_11th/AAHKV2X7AFYLW/zh_CN.html)、[English](https://s3.amazonaws.com/firmwarereleasenotes/update_kindle_all_new_paperwhite_11th/ATVPDKIKX0DER/en_US.html)
   - Kindle Paperwhite（第10代）:[中文](https://s3.amazonaws.com/firmwarereleasenotes/update_kindle_all_new_paperwhite_v2/AAHKV2X7AFYLW/zh_CN.html)、[English](https://s3.amazonaws.com/firmwarereleasenotes/update_kindle_all_new_paperwhite_v2/ATVPDKIKX0DER/en_US.html)
   - Kindle Paperwhite（第7代）:[中文](https://s3.amazonaws.com/firmwarereleasenotes/update_kindle_all_new_paperwhite/AAHKV2X7AFYLW/zh_CN.html)、[English](https://s3.amazonaws.com/firmwarereleasenotes/update_kindle_all_new_paperwhite/ATVPDKIKX0DER/en_US.html)
   - Kindle（第10代）:[中文](https://s3.amazonaws.com/firmwarereleasenotes/update_kindle_10th/AAHKV2X7AFYLW/zh_CN.html)、[English](https://s3.amazonaws.com/firmwarereleasenotes/update_kindle_10th/ATVPDKIKX0DER/en_US.html)
   - Kindle（第8代）:[中文](https://s3.amazonaws.com/firmwarereleasenotes/update_kindle_8th/AAHKV2X7AFYLW/zh_CN.html)、[English](https://s3.amazonaws.com/firmwarereleasenotes/update_kindle_8th/ATVPDKIKX0DER/en_US.html)
 
+### 版本 5.14.1.1 Oct 5 2021
+本次更新包括：
+ - **翻页动画效果**: 您现在可以调整大多数电子书的翻页样式。这项新功能现在位于【Aa 菜单】-> 【其他】中，并添加了一款新的翻页样式，附带定向动画效果。
+ - **阅读时的导航选项**: 在添加了脚注、尾注、书签、笔记/标注或链接的电子书里，您现在可以更快捷地完成导航操作。
+ - **设备识别功能改进**: Kindle 型号和版本信息现在可以在 Kindle【设置】的【设备信息】页面中找到。
+ - 性能改善、问题修复及其他一般性功能加强。
+ - [Kindle Paperwhite（第11代）](https://s3.amazonaws.com/firmwaredownloads/update_kindle_all_new_paperwhite_11th_5.14.1.1.bin)
+
+### 版本 5.14.1 Oct 5 2021
+本次更新包括：
+ - **阅读时的导航选项**: 在添加了脚注、尾注、书签、笔记/标注或链接的电子书里，您现在可以更快捷地完成导航操作。
+ - 性能改善、问题修复及其他一般性功能加强。
+ - [Kindle Oasis（第10代）](https://s3.amazonaws.com/firmwaredownloads/update_kindle_all_new_oasis_v2_5.14.1.bin)
+ - [Kindle Paperwhite（第10代）](https://s3.amazonaws.com/firmwaredownloads/update_kindle_all_new_paperwhite_v2_5.14.1.bin)
+ - [Kindle（第10代）](https://s3.amazonaws.com/firmwaredownloads/update_kindle_10th_5.14.1.bin)
+ - [Kindle Oasis（第9代）](https://s3.amazonaws.com/firmwaredownloads/update_kindle_all_new_oasis_5.14.1.bin)
+ - [Kindle Oasis（第8代）](https://s3.amazonaws.com/firmwaredownloads/update_kindle_oasis_5.14.1.bin)
+ - [Kindle（第8代）](https://s3.amazonaws.com/firmwaredownloads/update_kindle_8th_5.14.1.bin)
+ - [Kindle Paperwhite（第7代）](https://s3.amazonaws.com/firmwaredownloads/update_kindle_all_new_paperwhite_5.14.1.bin)
+
 ### 版本 5.13.7 Aug 13 2021
 本次更新包括：
  - **设备识别功能改进** Kindle 型号和版本信息现在可以在 Kindle 【设置】的【设备信息】页面中找到。
  - 性能改善、问题修复及其他一般性功能加强。
- - [Kindle Oasis（第10代）](https://s3.amazonaws.com/firmwaredownloads/update_kindle_all_new_oasis_v2_5.13.7.bin)
- - [Kindle Paperwhite（第10代）](https://s3.amazonaws.com/firmwaredownloads/update_kindle_all_new_paperwhite_v2_5.13.7.bin)
- - [Kindle（第10代）](https://s3.amazonaws.com/firmwaredownloads/update_kindle_10th_5.13.7.bin)
- - [Kindle Oasis（第9代）](https://s3.amazonaws.com/firmwaredownloads/update_kindle_all_new_oasis_5.13.7.bin)
- - [Kindle Oasis（第8代）](https://s3.amazonaws.com/firmwaredownloads/update_kindle_oasis_5.13.7.bin)
- - [Kindle（第8代）](https://s3.amazonaws.com/firmwaredownloads/update_kindle_8th_5.13.7.bin)
- - [Kindle Voyage（第7代）](https://s3.amazonaws.com/firmwaredownloads/update_kindle_voyage_5.13.7.bin)
- - [Kindle Paperwhite（第7代）](https://s3.amazonaws.com/firmwaredownloads/update_kindle_all_new_paperwhite_5.13.7.bin)
 
 ### 版本 5.13.6 May 11 2021
 本次更新包括：
  - 性能改善、问题修复及其他一般性功能加强。
+ - [Kindle Voyage（第7代）](https://s3.amazonaws.com/firmwaredownloads/update_kindle_voyage_5.13.6.bin)
 
 ### 版本 5.13.5 Feb 26 2021
 本次更新包括：

@@ -65,6 +65,18 @@
   - Kindle（第10代）:[中文](https://s3.amazonaws.com/firmwarereleasenotes/update_kindle_10th/AAHKV2X7AFYLW/zh_CN.html)、[English](https://s3.amazonaws.com/firmwarereleasenotes/update_kindle_10th/ATVPDKIKX0DER/en_US.html)
   - Kindle（第8代）:[中文](https://s3.amazonaws.com/firmwarereleasenotes/update_kindle_8th/AAHKV2X7AFYLW/zh_CN.html)、[English](https://s3.amazonaws.com/firmwarereleasenotes/update_kindle_8th/ATVPDKIKX0DER/en_US.html)
 
+### 版本 5.14.3.2 Aug 4 2022
+本次更新包括：
+ - 性能改善、问题修复及其他一般性功能加强。
+ - [Kindle Paperwhite（第11代）](https://s3.amazonaws.com/firmwaredownloads/update_kindle_all_new_paperwhite_11th_5.14.3.2.bin)
+ - [Kindle Oasis（第10代）](https://s3.amazonaws.com/firmwaredownloads/update_kindle_all_new_oasis_v2_5.14.3.2.bin)
+ - [Kindle Paperwhite（第10代）](https://s3.amazonaws.com/firmwaredownloads/update_kindle_all_new_paperwhite_v2_5.14.3.2.bin)
+ - [Kindle（第10代）](https://s3.amazonaws.com/firmwaredownloads/update_kindle_10th_5.14.3.2.bin)
+ - [Kindle Oasis（第9代）](https://s3.amazonaws.com/firmwaredownloads/update_kindle_all_new_oasis_5.14.3.2.bin)
+ - [Kindle Oasis（第8代）](https://s3.amazonaws.com/firmwaredownloads/update_kindle_oasis_5.14.3.2.bin)
+ - [Kindle（第8代）](https://s3.amazonaws.com/firmwaredownloads/update_kindle_8th_5.14.3.2.bin)
+ - [Kindle Paperwhite（第7代）](https://s3.amazonaws.com/firmwaredownloads/update_kindle_all_new_paperwhite_5.14.3.2.bin)
+
 ### 版本 5.14.3.0.1 May 13 2022
 本次更新包括：
  - **全新的网格视图和列表视图**: 我们更新了图书馆的视图设计，在列表视图中增加了更丰富的细节。现可从中查看封面艺术、更多作品以及最新阅读进度。
@@ -75,14 +87,6 @@
  - **访问近期阅读的电子书**: 通过【主页】可快捷访问最多 20 本您近期阅读的电子书。
  - **电量过低屏幕**: 我们更新了显示 Kindle 电量过低的用户界面，确保信息清晰易辨。
  - 性能改善、问题修复及其他一般性功能加强。
- - [Kindle Paperwhite（第11代）](https://s3.amazonaws.com/firmwaredownloads/update_kindle_all_new_paperwhite_11th_5.14.3.0.1.bin)
- - [Kindle Oasis（第10代）](https://s3.amazonaws.com/firmwaredownloads/update_kindle_all_new_oasis_v2_5.14.3.0.1.bin)
- - [Kindle Paperwhite（第10代）](https://s3.amazonaws.com/firmwaredownloads/update_kindle_all_new_paperwhite_v2_5.14.3.0.1.bin)
- - [Kindle（第10代）](https://s3.amazonaws.com/firmwaredownloads/update_kindle_10th_5.14.3.0.1.bin)
- - [Kindle Oasis（第9代）](https://s3.amazonaws.com/firmwaredownloads/update_kindle_all_new_oasis_5.14.3.0.1.bin)
- - [Kindle Oasis（第8代）](https://s3.amazonaws.com/firmwaredownloads/update_kindle_oasis_5.14.3.0.1.bin)
- - [Kindle（第8代）](https://s3.amazonaws.com/firmwaredownloads/update_kindle_8th_5.14.3.0.1.bin)
- - [Kindle Paperwhite（第7代）](https://s3.amazonaws.com/firmwaredownloads/update_kindle_all_new_paperwhite_5.14.3.0.1.bin)
 
 ### 版本 5.14.3 Apr 25 2022
 本次更新包括：

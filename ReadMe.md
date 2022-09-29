@@ -10,15 +10,20 @@
  - [Kindle 京東官方旗艦店](https://kindle.jd.com/)
 
 ## 美亞購買鏈接
- - [Kindle Oasis](https://www.amazon.com/dp/B07FJ91TLB) (8G/WIFI/Ad-Supported/$249.99、8G/WIFI/Without Ads/$269.99、32G/WIFI/Ad-Supported/$279.99、32G/WIFI/Without Ads/$299.99、32G/WIFI+4G LTE/Without Ads/$349.99)
- - [Kindle Paperwhite](https://www.amazon.com/dp/B07CXG6C9W) (8G/WIFI/Ad-Supported/$129.99、8G/WIFI/Without Ads/$149.99、32G/WIFI/Ad-Supported/$159.99、32G/WIFI/Without Ads/$179.99)
- - [Kindle Paperwhite](https://www.amazon.com/dp/B075RNKT6G) (32G/WIFI+4G LTE/Without Ads/$249.99)
- - [Kindle](https://www.amazon.com/dp/B07978J597) (8G/WIFI/Ad-Supported/$89.99、8G/WIFI/Without Ads/$109.99)
+ - [Kindle Scribe](https://www.amazon.com/dp/B09BS26B8B)(16G/Basic Pen/$339.99、16G/Premium Pen/$369.99、32G/Premium Pen/$389.99、64G/Premium Pen/$419.99)
+ - [Kindle Oasis](https://www.amazon.com/dp/B07F7TLZF4) (8G/WIFI/Ad-Supported/$249.99、8G/WIFI/Without Ads/$269.99、32G/WIFI/Ad-Supported/$279.99、32G/WIFI/Without Ads/$299.99、32G/WIFI+4G LTE/Without Ads/$349.99)
+ - [Kindle Paperwhite](https://www.amazon.com/dp/B08KTZ8249) (8G/WIFI/Ad-Supported/$139.99、8G/WIFI/Without Ads/$159.99、16G/WIFI/Ad-Supported/$149.99、16G/WIFI/Without Ads/$169.99)
+ - [Kindle Paperwhite Signature Edition](https://www.amazon.com/dp/B08B495319)(32G/WIFI/Without Ads/$189.99)
+ - [Kindle Paperwhite Kids](https://www.amazon.com/dp/B08WPB8PW9)
+ - [Kindle](https://www.amazon.com/dp/B09SWW583J) (16G/WIFI/Ad-Supported/$99.99、16G/WIFI/Without Ads/$119.99)
+ - [Kindle Kids](https://www.amazon.com/dp/B0B4GC9TJT)
 
 ## 日亞購買鏈接
+ - [Kindle Scribe](https://www.amazon.co.jp/dp/B09BRG33C3)
  - [Kindle Oasis](https://www.amazon.co.jp/dp/B07L5GH2YP)
- - [Kindle Paperwhite](https://www.amazon.co.jp/dp/B07HCSQ48P)
- - [Kindle](https://www.amazon.co.jp/dp/B07FQ4DJ7X)
+ - [Kindle Paperwhite](https://www.amazon.co.jp/dp/B08N41Y4Q2)
+ - [Kindle Paperwhite Signature Edition](https://www.amazon.co.jp/dp/B08N2ZL7PS)
+ - [Kindle](https://www.amazon.co.jp/dp/B09SWTXTNV)
 
 ## Telegram 交流群:[@KindleEReader](https://t.me/KindleEReader)
 
@@ -27,32 +32,92 @@
 ## [序列號與產品對應表格](https://wiki.mobileread.com/wiki/Kindle_Serial_Numbers)
 
 ## 產品比較
-||Kindle（第10代）|Kindle Paperwhite（第10代）|Kindle Oasis（第10代）|
+||Kindle（第11代）|Kindle Paperwhite（第11代）|Kindle Oasis（第10代）|
 |------|------|------|------|
-|Screen Size/屏幕尺寸|6" glare-free/6英寸|6" glare-free/6英寸|7" glare-free/7英寸|
-|Storage/存储|4GB or 8 GB|8 GB or 32 GB|8 GB or 32 GB|
-|Resolution/分辨率|800 x 600 pixels,167 ppi|1448 x 1072 pixels,300 ppi|1680 x 1264 pixels,300 ppi|
-|Front light/内置阅读灯|4 LEDs|5 LEDs|25 LEDs|
+|Display Size/显示屏|6" glare-free/6英寸|6.8" glare-free/6.8英寸|7" glare-free/7英寸|
+|Storage/储存容量|16 GB|8 GB or 16 GB|8 GB or 32 GB|
+|Resolution/分辨率|1448 x 1072 pixels,300 ppi|1648 x 1236 pixels,300 ppi|1680 x 1264 pixels,300 ppi|
+|Front light/内置阅读灯|4 LEDs|17 LEDs|25 LEDs|
 |Weeks of battery life/数周续航|✓|✓|✓|
 |Audible (via Bluetooth)/有声（通过蓝牙）|✓|✓|✓|
+|Parental Controls/家长控制|✓|✓|✓|
 |Flush-front design/纯平设计||✓|✓|
 |Waterproof (IPX8)/防水（IPX8,60分钟,2米水深清水）||✓|✓|
-|Adjustable warm light/可调节冷暖色温|||✓|
+|Adjustable warm light/可调节冷暖色温||✓|✓|
 |Auto-adjusting light sensors/光线感应器|||✓|
 |Ergonomic design/人体工学设计|||✓|
 |Automatic rotating page orientation/屏幕自动旋转|||✓|
 |Page turn buttons/翻页键|||✓|
-|Wi-Fi Connectivity/Wi-Fi连接|Wi-Fi|Wi-Fi or Wi-Fi + Free Cellular Connectivity/Wi-Fi或Wi-Fi +免费蜂窝连接|Wi-Fi or Wi-Fi + Free Cellular Connectivity/Wi-Fi或Wi-Fi +免费蜂窝连接|
-|Color/设备颜色|Black or White/黑或白|Black, Twilight Blue, Sage or Plum/墨黑，雾蓝，玉青或烟紫|Graphite or Champagne Gold/银灰或香槟金|
-|Weight/重量|6.1 oz (174 g)|Wi-Fi: 6.4 oz (182 g) Wi-Fi + Free Cellular Connectivity: 6.8 oz (191 g)|6.6 oz (188g)|
-|Size/设备尺寸|6.3” x 4.5” x 0.34” ( 160 x 113 x 8.7 mm)|6.6” x 4.6” x 0.3” ( 167 x 116 x 8.18 mm)|6.3” x 5.6” x 0.13-.33” (159 x 141 x 3.4-8.4 mm)|
+|Wi-Fi Connectivity/Wi-Fi连接|Wi-Fi|Wi-Fi|Wi-Fi or Wi-Fi + Free Cellular Connectivity/Wi-Fi或Wi-Fi +免费蜂窝连接|
+|Color/设备颜色|Black or Denim/黑或牛仔布|Black/黑|Graphite or Champagne Gold/银灰或香槟金|
+|Weight/重量|5.56 oz (158 g)|7.23 oz (205 g)|6.6 oz (188g)|
+|Size/设备尺寸|6.2” x 4.3” x 0.32” ( 157.8 x 108.6 x 8.0 mm)|6.9” x 4.9” x 0.32” ( 174.2 x 124.6 x 8.1 mm)|6.3” x 5.6” x 0.13-.33” (159 x 141 x 3.4-8.4 mm)|
+
+## 免费蜂窝连接（国内能用移动2G/联通3G网络）
+- 2G
+  - GSM900：Tx：880.2-914.8 MHz (28.76 dBm)，Rx 925.2-959.8 MHz
+  - GSM1800：Tx 1710.2-1784.8 MHz（31.09 dBm），Rx 1805.2-1879.8 MHz
+- 3G：
+  - WCDMA B1：Tx 1922.4-1977.6 MHz（23.95 dBm），Rx 2112.4-2167.6 MHz
+  - WCDMA B8：Tx 880-915 MHz（18.71 dBm），Rx 925-960 MHz
+- 4G：
+  - LTE B1：Tx 1920-1980 MHz（23.99 dBm），Rx 2110-2170 MHz
+  - LTE B3：Tx 1710-1785 MHz（25.21 dBm），Rx 1805-1880 MHz
+  - LTE B8：Tx 880-915 MHz（19.23 dBm），Rx 925-960 MHz
+  - LTE B20：Tx 832-862 MHz（20.97 dBm），Rx 791-821 MHz
+
+## 内置字词典（30本azw，16本kfx）
+|ASIN|FileName|
+|------|------|
+|B00A8QWAFO|A Modern Chinese-English Dictionary (现代汉英词典) (Chinese Edition)_B00A8QWAFO.azw|
+|B00CDAAXXE|ABBYY Lingvo Comprehensive Russian-English Dictionary (Russian Edition)_B00CDAAXXE.azw|
+|B00CDAAXSO|ABBYY Lingvo Большой Англо-Русский Словарь_B00CDAAXSO.azw|
+|B00C0C40NE|ABBYY Lingvo Большой Толковый Словарь Русского Языка (Russian-Russian Dictionary) (Russian Edition)_B00C0C40NE.azw|
+|B0050BXW8Q|Dicionário Priberam da Língua Portuguesa_B0050BXW8Q.azw|
+|B00D3CUH3C|Dicionário Priberam de Inglês-Português_B00D3CUH3C.azw|
+|B005306NQM|Dictionnaire français Cordial (French Edition)_B005306NQM.azw|
+|B0050BXW7W|Duden Deutsches Universalwörterbuch_B0050BXW7W.azw|
+|B00KAJJRIM|Groot woordenboek Engels-Nederlands (English-Dutch Dictionary)_B00KAJJRIM.azw|
+|B00KAJJRFU|Groot woordenboek hedendaags Nederlands (Dutch Dictionary) (Dutch Edition)_B00KAJJRFU.azw|
+|B00KAJJRHI|Groot woordenboek Nederlands-Engels (Dutch-English Dictionary) (Dutch Edition)_B00KAJJRHI.azw|
+|B0050C47RA|lo Zingarelli Vocabolario della Lingua Italiana_B0050C47RA.azw|
+|B00OLDL0BA|Merriam Webster's Advanced Learner's English Dictionary_B00OLDL0BA.azw|
+|B00771V9HS|Modern English- Chinese Dictionary (现代英汉词典)_B00771V9HS.azw|
+|B0053VMNYW|Oxford Dictionary of English_B0053VMNYW.azw|
+|B00NM4BKNC|Oxford English - German Dictionary_B00NM4BKNC.azw|
+|B00NM4BJ92|Oxford English - Spanish Dictionary_B00NM4BJ92.azw|
+|B00NM4BJ6K|Oxford German - English Dictionary (German Edition)_B00NM4BJ6K.azw|
+|B00NM4BPWS|Oxford Hachette English - French Dictionary_B00NM4BPWS.azw|
+|B00NM4BNTS|Oxford Hachette French - English Dictionary (French Edition)_B00NM4BNTS.azw|
+|B00NM4BS5C|Oxford Paravia English - Italian Dictionary_B00NM4BS5C.azw|
+|B00NM4BROY|Oxford Paravia Italian - English Dictionary (Italian Edition)_B00NM4BROY.azw|
+|B00NM4BJ4W|Oxford Spanish - English Dictionary (Spanish Edition)_B00NM4BJ4W.azw|
+|B00D3CUH0U|Priberam's Portuguese-English Dictionary (Portuguese Edition)_B00D3CUH0U.azw|
+|B00771M5IA|Progressive English-Japanese Dictionary(プログレッシブ英和中辞典)_B00771M5IA.azw|
+|B00A8QWAC2|Progressive Japanese-English Dictionary (プログレッシブ和英中辞典第３版) (Japanese Edition)_B00A8QWAC2.azw|
+|B005064LTK|Real Academia Española el Diccionario de la lengua española_B005064LTK.azw|
+|B0053VMNY2|The New Oxford American Dictionary_B0053VMNY2.azw|
+|B00771M8JQ|大辞泉 (Daijisen Japanese Dictionary) (Japanese Edition)_B00771M8JQ.azw|
+|B00AKJGTAQ|现代汉语词典 (Xian Dai Han Yu Ci Dian) (Chinese Edition)_B00AKJGTAQ.azw|
+|B076TRC48Y|Al-Munjid Arabic dictionary (Arabic Edition)_B076TRC48Y.kfx|
+|B06W2LKPPT|Chol English-Tamil Dictionary_B06W2LKPPT.kfx|
+|B06X93DQWZ|Chol Tamil-English Dictionary (Tamil Edition)_B06X93DQWZ.kfx|
+|B06WP6LHVD|Chol Tamil-Tamil Dictionary (Tamil Edition)_B06WP6LHVD.kfx|
+|B06X3WX8V4|English into Gujarati dictionary_B06X3WX8V4.kfx|
+|B06W9KK7B8|Gujarati into English dictionary (Gujarati Edition)_B06W9KK7B8.kfx|
+|B06X6HVPX1|Gujarati into Gujarati dictionary (Gujarati Edition)_B06X6HVPX1.kfx|
+|B076V53ZX8|Oxford Arabic to English dictionary (Arabic Edition)_B076V53ZX8.kfx|
+|B076J3THH9|Oxford English to Arabic dictionary_B076J3THH9.kfx|
+|B06VW66R2F|Prabhat Advanced English Hindi Dictionary_B06VW66R2F.kfx|
+|B06VW73857|Prabhat Advanced Hindi English Dictionary (Hindi Edition)_B06VW73857.kfx|
+|B06VW689KW|Rajpal Hindi Shabdkosh (Hindi Edition)_B06VW689KW.kfx|
+|B06WRSQB9W|Shabdhatharavali (Malayalam Edition)_B06WRSQB9W.kfx|
+|B06X19NK3Z|Texlang English-Marathi Shabdabhandar_B06X19NK3Z.kfx|
+|B06WRSQJK3|Texlang Marathi Shabdabhandar (Marathi Edition)_B06WRSQJK3.kfx|
+|B06X3WWPCM|Texlang Marathi-English Shabdabhandar (Marathi Edition)_B06X3WWPCM.kfx|
 
 ## [Kindle电子书阅读器软件更新](https://www.amazon.cn/gp/help/customer/display.html?nodeId=GKMQC26VQQMM8XSW)
 ## [Kindle E-Reader Software Updates](https://www.amazon.com/gp/help/customer/display.html?nodeId=GKMQC26VQQMM8XSW)
-
-### Bug反饋
-  - kindle-feedback@amazon.cn
-  - kindle-feedback@amazon.com
 
 ### 更新歷史
   - Kindle Oasis（第10代）:[中文](https://s3.amazonaws.com/firmwarereleasenotes/update_kindle_all_new_oasis_v2/AAHKV2X7AFYLW/zh_CN.html)、[English](https://s3.amazonaws.com/firmwarereleasenotes/update_kindle_all_new_oasis_v2/ATVPDKIKX0DER/en_US.html)
@@ -62,20 +127,31 @@
   - Kindle Paperwhite（第11代）:[中文](https://s3.amazonaws.com/firmwarereleasenotes/update_kindle_all_new_paperwhite_11th/AAHKV2X7AFYLW/zh_CN.html)、[English](https://s3.amazonaws.com/firmwarereleasenotes/update_kindle_all_new_paperwhite_11th/ATVPDKIKX0DER/en_US.html)
   - Kindle Paperwhite（第10代）:[中文](https://s3.amazonaws.com/firmwarereleasenotes/update_kindle_all_new_paperwhite_v2/AAHKV2X7AFYLW/zh_CN.html)、[English](https://s3.amazonaws.com/firmwarereleasenotes/update_kindle_all_new_paperwhite_v2/ATVPDKIKX0DER/en_US.html)
   - Kindle Paperwhite（第7代）:[中文](https://s3.amazonaws.com/firmwarereleasenotes/update_kindle_all_new_paperwhite/AAHKV2X7AFYLW/zh_CN.html)、[English](https://s3.amazonaws.com/firmwarereleasenotes/update_kindle_all_new_paperwhite/ATVPDKIKX0DER/en_US.html)
+  - Kindle（第11代）:[中文](https://s3.amazonaws.com/firmwarereleasenotes/update_kindle_11th/AAHKV2X7AFYLW/zh_CN.html)、[English](https://s3.amazonaws.com/firmwarereleasenotes/update_kindle_11th/ATVPDKIKX0DER/en_US.html)
   - Kindle（第10代）:[中文](https://s3.amazonaws.com/firmwarereleasenotes/update_kindle_10th/AAHKV2X7AFYLW/zh_CN.html)、[English](https://s3.amazonaws.com/firmwarereleasenotes/update_kindle_10th/ATVPDKIKX0DER/en_US.html)
   - Kindle（第8代）:[中文](https://s3.amazonaws.com/firmwarereleasenotes/update_kindle_8th/AAHKV2X7AFYLW/zh_CN.html)、[English](https://s3.amazonaws.com/firmwarereleasenotes/update_kindle_8th/ATVPDKIKX0DER/en_US.html)
+
+### 版本 5.16.1 Nov 22 2022
+ - [Kindle Scribe](https://firmwaredownloads.s3.amazonaws.com/update_kindle_scribe_5.16.1.bin)
+
+### 版本 5.15.1 Sep 27 2022
+本次更新包括：
+ - **支持 WPA3**: 此 Kindle 现可连接 WPA3 安全类型。这样即可启用行业领先的无线安全标准。
+ - **充电端口安全功能**: 当 USB-C 充电端口检测到液体时，主页顶部会显示液体检测指示图标，同时阻止为设备充电，直到液体干燥为止。
+ - 性能改善、问题修复及其他一般性功能加强。
+ - [Kindle Oasis（第10代）](https://s3.amazonaws.com/firmwaredownloads/update_kindle_all_new_oasis_v2_5.15.1.bin)
+ - [Kindle Oasis（第9代）](https://s3.amazonaws.com/firmwaredownloads/update_kindle_all_new_oasis_5.15.1.bin)
+ - [Kindle Oasis（第8代）](https://s3.amazonaws.com/firmwaredownloads/update_kindle_oasis_5.15.1.bin)
+ - [Kindle Paperwhite（第11代）](https://s3.amazonaws.com/firmwaredownloads/update_kindle_all_new_paperwhite_11th_5.15.1.bin)
+ - [Kindle Paperwhite（第10代）](https://s3.amazonaws.com/firmwaredownloads/update_kindle_all_new_paperwhite_v2_5.15.1.bin)
+ - [Kindle Paperwhite（第7代）](https://s3.amazonaws.com/firmwaredownloads/update_kindle_all_new_paperwhite_5.15.1.bin)
+ - [Kindle（第11代）](https://s3.amazonaws.com/firmwaredownloads/update_kindle_11th_5.15.1.bin)
+ - [Kindle（第10代）](https://s3.amazonaws.com/firmwaredownloads/update_kindle_10th_5.15.1.bin)
+ - [Kindle（第8代）](https://s3.amazonaws.com/firmwaredownloads/update_kindle_8th_5.15.1.bin)
 
 ### 版本 5.14.3.2 Aug 4 2022
 本次更新包括：
  - 性能改善、问题修复及其他一般性功能加强。
- - [Kindle Paperwhite（第11代）](https://s3.amazonaws.com/firmwaredownloads/update_kindle_all_new_paperwhite_11th_5.14.3.2.bin)
- - [Kindle Oasis（第10代）](https://s3.amazonaws.com/firmwaredownloads/update_kindle_all_new_oasis_v2_5.14.3.2.bin)
- - [Kindle Paperwhite（第10代）](https://s3.amazonaws.com/firmwaredownloads/update_kindle_all_new_paperwhite_v2_5.14.3.2.bin)
- - [Kindle（第10代）](https://s3.amazonaws.com/firmwaredownloads/update_kindle_10th_5.14.3.2.bin)
- - [Kindle Oasis（第9代）](https://s3.amazonaws.com/firmwaredownloads/update_kindle_all_new_oasis_5.14.3.2.bin)
- - [Kindle Oasis（第8代）](https://s3.amazonaws.com/firmwaredownloads/update_kindle_oasis_5.14.3.2.bin)
- - [Kindle（第8代）](https://s3.amazonaws.com/firmwaredownloads/update_kindle_8th_5.14.3.2.bin)
- - [Kindle Paperwhite（第7代）](https://s3.amazonaws.com/firmwaredownloads/update_kindle_all_new_paperwhite_5.14.3.2.bin)
 
 ### 版本 5.14.3.0.1 May 13 2022
 本次更新包括：
@@ -123,7 +199,6 @@
 ### 版本 5.13.6 May 11 2021
 本次更新包括：
  - 性能改善、问题修复及其他一般性功能加强。
- - [Kindle Voyage（第7代）](https://s3.amazonaws.com/firmwaredownloads/update_kindle_voyage_5.13.6.bin)
 
 ### 版本 5.13.5 Feb 26 2021
 本次更新包括：
@@ -358,6 +433,11 @@ Kindle Oasis、Kindle 8 新增功能：
  - Kindle (7th Generation)
  ```
  https://s3.amazonaws.com/firmwaredownloads/update_kindle_5.12.2.2.bin
+ ```
+
+ - Kindle Voyage (7th Generation)
+ ```
+ https://s3.amazonaws.com/firmwaredownloads/update_kindle_voyage_5.13.6.bin
  ```
 
  - Kindle X咪咕

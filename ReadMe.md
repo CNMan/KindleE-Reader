@@ -131,6 +131,19 @@
   - Kindle（第10代）:[中文](https://s3.amazonaws.com/firmwarereleasenotes/update_kindle_10th/AAHKV2X7AFYLW/zh_CN.html)、[English](https://s3.amazonaws.com/firmwarereleasenotes/update_kindle_10th/ATVPDKIKX0DER/en_US.html)
   - Kindle（第8代）:[中文](https://s3.amazonaws.com/firmwarereleasenotes/update_kindle_8th/AAHKV2X7AFYLW/zh_CN.html)、[English](https://s3.amazonaws.com/firmwarereleasenotes/update_kindle_8th/ATVPDKIKX0DER/en_US.html)
 
+### 版本 5.15.1.1 Feb 20 2023
+本次更新包括：
+ - 性能改善、问题修复及其他一般性功能加强。
+ - [Kindle Oasis（第10代）](https://s3.amazonaws.com/firmwaredownloads/update_kindle_all_new_oasis_v2_5.15.1.1.bin)
+ - [Kindle Oasis（第9代）](https://s3.amazonaws.com/firmwaredownloads/update_kindle_all_new_oasis_5.15.1.1.bin)
+ - [Kindle Oasis（第8代）](https://s3.amazonaws.com/firmwaredownloads/update_kindle_oasis_5.15.1.1.bin)
+ - [Kindle Paperwhite（第11代）](https://s3.amazonaws.com/firmwaredownloads/update_kindle_all_new_paperwhite_11th_5.15.1.1.bin)
+ - [Kindle Paperwhite（第10代）](https://s3.amazonaws.com/firmwaredownloads/update_kindle_all_new_paperwhite_v2_5.15.1.1.bin)
+ - [Kindle Paperwhite（第7代）](https://s3.amazonaws.com/firmwaredownloads/update_kindle_all_new_paperwhite_5.15.1.1.bin)
+ - [Kindle（第11代）](https://s3.amazonaws.com/firmwaredownloads/update_kindle_11th_5.15.1.1.bin)
+ - [Kindle（第10代）](https://s3.amazonaws.com/firmwaredownloads/update_kindle_10th_5.15.1.1.bin)
+ - [Kindle（第8代）](https://s3.amazonaws.com/firmwaredownloads/update_kindle_8th_5.15.1.1.bin)
+
 ### 版本 5.16.1 Nov 22 2022
  - [Kindle Scribe](https://firmwaredownloads.s3.amazonaws.com/update_kindle_scribe_5.16.1.bin)
 
@@ -139,15 +152,6 @@
  - **支持 WPA3**: 此 Kindle 现可连接 WPA3 安全类型。这样即可启用行业领先的无线安全标准。
  - **充电端口安全功能**: 当 USB-C 充电端口检测到液体时，主页顶部会显示液体检测指示图标，同时阻止为设备充电，直到液体干燥为止。
  - 性能改善、问题修复及其他一般性功能加强。
- - [Kindle Oasis（第10代）](https://s3.amazonaws.com/firmwaredownloads/update_kindle_all_new_oasis_v2_5.15.1.bin)
- - [Kindle Oasis（第9代）](https://s3.amazonaws.com/firmwaredownloads/update_kindle_all_new_oasis_5.15.1.bin)
- - [Kindle Oasis（第8代）](https://s3.amazonaws.com/firmwaredownloads/update_kindle_oasis_5.15.1.bin)
- - [Kindle Paperwhite（第11代）](https://s3.amazonaws.com/firmwaredownloads/update_kindle_all_new_paperwhite_11th_5.15.1.bin)
- - [Kindle Paperwhite（第10代）](https://s3.amazonaws.com/firmwaredownloads/update_kindle_all_new_paperwhite_v2_5.15.1.bin)
- - [Kindle Paperwhite（第7代）](https://s3.amazonaws.com/firmwaredownloads/update_kindle_all_new_paperwhite_5.15.1.bin)
- - [Kindle（第11代）](https://s3.amazonaws.com/firmwaredownloads/update_kindle_11th_5.15.1.bin)
- - [Kindle（第10代）](https://s3.amazonaws.com/firmwaredownloads/update_kindle_10th_5.15.1.bin)
- - [Kindle（第8代）](https://s3.amazonaws.com/firmwaredownloads/update_kindle_8th_5.15.1.bin)
 
 ### 版本 5.14.3.2 Aug 4 2022
 本次更新包括：

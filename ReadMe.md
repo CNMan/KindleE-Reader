@@ -120,6 +120,7 @@
 ## [Kindle E-Reader Software Updates](https://www.amazon.com/gp/help/customer/display.html?nodeId=GKMQC26VQQMM8XSW)
 
 ### 更新歷史
+  - Kindle Scribe:[中文](https://s3.amazonaws.com/firmwarereleasenotes/update_kindle_scribe/AAHKV2X7AFYLW/zh_CN.html)、[English](https://s3.amazonaws.com/firmwarereleasenotes/update_kindle_scribe/ATVPDKIKX0DER/en_US.html)
   - Kindle Oasis（第10代）:[中文](https://s3.amazonaws.com/firmwarereleasenotes/update_kindle_all_new_oasis_v2/AAHKV2X7AFYLW/zh_CN.html)、[English](https://s3.amazonaws.com/firmwarereleasenotes/update_kindle_all_new_oasis_v2/ATVPDKIKX0DER/en_US.html)
   - Kindle Oasis（第9代）:[中文](https://s3.amazonaws.com/firmwarereleasenotes/update_kindle_all_new_oasis/AAHKV2X7AFYLW/zh_CN.html)、[English](https://s3.amazonaws.com/firmwarereleasenotes/update_kindle_all_new_oasis/ATVPDKIKX0DER/en_US.html)
   - Kindle Oasis（第8代）:[中文](https://s3.amazonaws.com/firmwarereleasenotes/update_kindle_oasis/AAHKV2X7AFYLW/zh_CN.html)、[English](https://s3.amazonaws.com/firmwarereleasenotes/update_kindle_oasis/ATVPDKIKX0DER/en_US.html)
@@ -131,7 +132,16 @@
   - Kindle（第10代）:[中文](https://s3.amazonaws.com/firmwarereleasenotes/update_kindle_10th/AAHKV2X7AFYLW/zh_CN.html)、[English](https://s3.amazonaws.com/firmwarereleasenotes/update_kindle_10th/ATVPDKIKX0DER/en_US.html)
   - Kindle（第8代）:[中文](https://s3.amazonaws.com/firmwarereleasenotes/update_kindle_8th/AAHKV2X7AFYLW/zh_CN.html)、[English](https://s3.amazonaws.com/firmwarereleasenotes/update_kindle_8th/ATVPDKIKX0DER/en_US.html)
 
-### 版本 5.16.1.2 Feb 28 2023
+### 版本 5.16.1.2.1 Mar 2 2023
+ - [Kindle Scribe](https://firmwaredownloads.s3.amazonaws.com/update_kindle_scribe_5.16.1.2.1.bin)
+
+### 版本 5.16.1.2 Feb 24 2023
+本次更新包括：
+ - **前往笔记本的页面**: 快速导航到笔记本的特定页面。请打开主工具栏，点击溢出菜单，然后选择【前往页面】。在对话框中输入页码，然后点击【前往】导航到那一页。
+ - **【笔记本】选项卡中的子文件夹**: 您现在可以在其他文件夹内创建文件夹，也可以通过【移动】选项（点击文件夹封面上的溢出菜单，或长按文件夹名称或封面即可访问）将文件夹移动到其他文件夹中。
+ - **新屏保**: 专为 Kindle Scribe 设计的新屏保图像。要在您的设备上显示新屏保图像，只需确保关闭【显示封面】功能（【更多】>【设置】>【显示选项】）并锁定屏幕即可。
+ - **触控笔选项**: 在书写工具栏中，触控笔分为四种类型，每种类型提供五个粗细选项。可访问【设置】>【触控笔设置】>【快捷按钮】来选择触控笔的类型，以按需配置 Premium Pen。
+ - 性能改善、问题修复及其他一般性功能加强。
  - [Kindle Scribe](https://s3.amazonaws.com/firmwaredownloads/update_kindle_scribe_5.16.1.2.bin)
 
 ### 版本 5.15.1.1 Feb 20 2023

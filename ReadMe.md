@@ -132,8 +132,36 @@
   - Kindle（第10代）:[中文](https://s3.amazonaws.com/firmwarereleasenotes/update_kindle_10th/AAHKV2X7AFYLW/zh_CN.html)、[English](https://s3.amazonaws.com/firmwarereleasenotes/update_kindle_10th/ATVPDKIKX0DER/en_US.html)
   - Kindle（第8代）:[中文](https://s3.amazonaws.com/firmwarereleasenotes/update_kindle_8th/AAHKV2X7AFYLW/zh_CN.html)、[English](https://s3.amazonaws.com/firmwarereleasenotes/update_kindle_8th/ATVPDKIKX0DER/en_US.html)
 
+### 版本 5.16.2.1 Jun 21 2023
+本次更新包括：
+ - 性能改善、问题修复及其他一般性功能加强。
+ - [Kindle Oasis（第10代）](https://s3.amazonaws.com/firmwaredownloads/update_kindle_all_new_oasis_v2_5.16.2.1.bin)
+ - [Kindle Oasis（第9代）](https://s3.amazonaws.com/firmwaredownloads/update_kindle_all_new_oasis_5.16.2.1.bin)
+ - [Kindle Oasis（第8代）](https://s3.amazonaws.com/firmwaredownloads/update_kindle_oasis_5.16.2.1.bin)
+ - [Kindle Paperwhite（第11代）](https://s3.amazonaws.com/firmwaredownloads/update_kindle_all_new_paperwhite_11th_5.16.2.1.bin)
+ - [Kindle Paperwhite（第10代）](https://s3.amazonaws.com/firmwaredownloads/update_kindle_all_new_paperwhite_v2_5.16.2.1.bin)
+ - [Kindle Paperwhite（第7代）](https://s3.amazonaws.com/firmwaredownloads/update_kindle_all_new_paperwhite_5.16.2.1.bin)
+ - [Kindle（第11代）](https://s3.amazonaws.com/firmwaredownloads/update_kindle_11th_5.16.2.1.bin)
+ - [Kindle（第10代）](https://s3.amazonaws.com/firmwaredownloads/update_kindle_10th_5.16.2.1.bin)
+ - [Kindle（第8代）](https://s3.amazonaws.com/firmwaredownloads/update_kindle_8th_5.16.2.1.bin)
+
+### 版本 5.16.2 May 17 2023
+本次更新包括：
+ - **PDF 阅读体验优化**: 对于通过【发送至 Kindle】上传的 PDF，可在横屏和竖屏模式之间切换、裁剪页边距、选择文本并用手指或触控笔做标注和添加文本笔记，或查询字典释义、翻译和维基百科结果。
+ - **套索选择**: 在书写工具栏上，选择套索选择工具可移动、缩放、剪切或复制手写笔划。剪贴板工具会保存复制或剪切的笔划；选择所需的内容后，可粘贴在同一页面或其他的笔记本或电子书上。
+ - **在导出时转换文本**: 在笔记本的【分享】菜单中，选择【转换为文本并发送电子邮件】，即可预览和编辑手写笔记本中已转换的文本。选择【转换为文本并快速发送至[您注册的电子邮件地址]】可跳过预览。
+ - 性能改善、问题修复及其他一般性功能加强。
+ - [Kindle Scribe](https://s3.amazonaws.com/firmwaredownloads/update_kindle_scribe_5.16.2.bin)
+
+### 版本 5.16.1.3 Apr 17 2023
+ - **【Aa】菜单中的对比度滑块**: 在 Write-on Kindle 电子书和【发送至 Kindle】PDF（以原始布局发送）中，您可以调整电子书或文档内容的亮度或清晰度。
+ - **【Aa】菜单中的两栏式布局**: 您可以使用【Aa】菜单中的【布局】选项卡切换成横屏模式，然后选择单栏或双栏文本。从亚马逊购买或【发送至 Kindle】的电子书中的可调整布局大多都支持这一功能。
+ - **笔记本概览**: 您可以在笔记本概览中以平铺布局的显示方式一次性预览笔记本的多个页面，也可以添加、删除和移动笔记本的各个页面。
+ - 性能改善、问题修复及其他一般性功能加强。
+ - [Kindle Scribe](https://s3.amazonaws.com/firmwaredownloads/update_kindle_scribe_5.16.1.3.bin)
+ 
 ### 版本 5.16.1.2.1 Mar 2 2023
- - [Kindle Scribe](https://firmwaredownloads.s3.amazonaws.com/update_kindle_scribe_5.16.1.2.1.bin)
+ - [Kindle Scribe](https://s3.amazonaws.com/firmwaredownloads/update_kindle_scribe_5.16.1.2.1.bin)
 
 ### 版本 5.16.1.2 Feb 24 2023
 本次更新包括：
@@ -147,18 +175,9 @@
 ### 版本 5.15.1.1 Feb 20 2023
 本次更新包括：
  - 性能改善、问题修复及其他一般性功能加强。
- - [Kindle Oasis（第10代）](https://s3.amazonaws.com/firmwaredownloads/update_kindle_all_new_oasis_v2_5.15.1.1.bin)
- - [Kindle Oasis（第9代）](https://s3.amazonaws.com/firmwaredownloads/update_kindle_all_new_oasis_5.15.1.1.bin)
- - [Kindle Oasis（第8代）](https://s3.amazonaws.com/firmwaredownloads/update_kindle_oasis_5.15.1.1.bin)
- - [Kindle Paperwhite（第11代）](https://s3.amazonaws.com/firmwaredownloads/update_kindle_all_new_paperwhite_11th_5.15.1.1.bin)
- - [Kindle Paperwhite（第10代）](https://s3.amazonaws.com/firmwaredownloads/update_kindle_all_new_paperwhite_v2_5.15.1.1.bin)
- - [Kindle Paperwhite（第7代）](https://s3.amazonaws.com/firmwaredownloads/update_kindle_all_new_paperwhite_5.15.1.1.bin)
- - [Kindle（第11代）](https://s3.amazonaws.com/firmwaredownloads/update_kindle_11th_5.15.1.1.bin)
- - [Kindle（第10代）](https://s3.amazonaws.com/firmwaredownloads/update_kindle_10th_5.15.1.1.bin)
- - [Kindle（第8代）](https://s3.amazonaws.com/firmwaredownloads/update_kindle_8th_5.15.1.1.bin)
 
 ### 版本 5.16.1 Nov 22 2022
- - [Kindle Scribe](https://firmwaredownloads.s3.amazonaws.com/update_kindle_scribe_5.16.1.bin)
+ - [Kindle Scribe](https://s3.amazonaws.com/firmwaredownloads/update_kindle_scribe_5.16.1.bin)
 
 ### 版本 5.15.1 Sep 27 2022
 本次更新包括：

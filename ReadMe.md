@@ -132,16 +132,21 @@
   - Kindle（第10代）:[中文](https://s3.amazonaws.com/firmwarereleasenotes/update_kindle_10th/AAHKV2X7AFYLW/zh_CN.html)、[English](https://s3.amazonaws.com/firmwarereleasenotes/update_kindle_10th/ATVPDKIKX0DER/en_US.html)
   - Kindle（第8代）:[中文](https://s3.amazonaws.com/firmwarereleasenotes/update_kindle_8th/AAHKV2X7AFYLW/zh_CN.html)、[English](https://s3.amazonaws.com/firmwarereleasenotes/update_kindle_8th/ATVPDKIKX0DER/en_US.html)
 
+### 版本 5.16.5 Nov 14 2023
+本次更新包括：
+ - **使用列表布局查看收藏夹**: 在【图书馆】中，现在可以切换到【收藏夹】视图，然后选择【网格】或【列表】布局以查看内容。请点击【图书馆】右上方的视图和分类菜单图标，即可找到这些设置。
+ - 性能改善、问题修复及其他一般性功能加强。
+ - [Kindle Scribe](https://s3.amazonaws.com/firmwaredownloads/update_kindle_scribe_5.16.5.bin)
+ - [Kindle Oasis（第10代）](https://s3.amazonaws.com/firmwaredownloads/update_kindle_all_new_oasis_v2_5.16.5.bin)
+ - [Kindle Paperwhite（第11代）](https://s3.amazonaws.com/firmwaredownloads/update_kindle_all_new_paperwhite_11th_5.16.5.bin)
+ - [Kindle Paperwhite（第10代）](https://s3.amazonaws.com/firmwaredownloads/update_kindle_all_new_paperwhite_v2_5.16.5.bin)
+ - [Kindle（第11代）](https://s3.amazonaws.com/firmwaredownloads/update_kindle_11th_5.16.5.bin)
+ - [Kindle（第10代）](https://s3.amazonaws.com/firmwaredownloads/update_kindle_10th_5.16.5.bin)
+
 ### 版本 5.16.4 Oct 24 2023
 本次更新包括：
  - 性能改善、问题修复及其他一般性功能加强。
- - [Kindle Scribe](https://s3.amazonaws.com/firmwaredownloads/update_kindle_scribe_5.16.4.bin)
- - [Kindle Oasis（第10代）](https://s3.amazonaws.com/firmwaredownloads/update_kindle_all_new_oasis_v2_5.16.4.bin)
- - [Kindle Paperwhite（第11代）](https://s3.amazonaws.com/firmwaredownloads/update_kindle_all_new_paperwhite_11th_5.16.4.bin)
- - [Kindle Paperwhite（第10代）](https://s3.amazonaws.com/firmwaredownloads/update_kindle_all_new_paperwhite_v2_5.16.4.bin)
- - [Kindle（第11代）](https://s3.amazonaws.com/firmwaredownloads/update_kindle_11th_5.16.4.bin)
- - [Kindle（第10代）](https://s3.amazonaws.com/firmwaredownloads/update_kindle_10th_5.16.4.bin)
- 
+
 ### 版本 5.16.3.1 Oct 1 2023
 
 ### 版本 5.16.3 Aug 28 2023

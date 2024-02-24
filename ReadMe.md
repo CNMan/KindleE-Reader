@@ -132,19 +132,28 @@
   - Kindle（第10代）:[中文](https://s3.amazonaws.com/firmwarereleasenotes/update_kindle_10th/AAHKV2X7AFYLW/zh_CN.html)、[English](https://s3.amazonaws.com/firmwarereleasenotes/update_kindle_10th/ATVPDKIKX0DER/en_US.html)
   - Kindle（第8代）:[中文](https://s3.amazonaws.com/firmwarereleasenotes/update_kindle_8th/AAHKV2X7AFYLW/zh_CN.html)、[English](https://s3.amazonaws.com/firmwarereleasenotes/update_kindle_8th/ATVPDKIKX0DER/en_US.html)
 
+### 版本 5.16.7 Feb 23 2024
+本次更新包括：
+ - 性能改善、问题修复及其他一般性功能加强。
+ - [Kindle Scribe](https://s3.amazonaws.com/firmwaredownloads/update_kindle_scribe_5.16.7.bin)
+ - [Kindle Oasis（第10代）](https://s3.amazonaws.com/firmwaredownloads/update_kindle_all_new_oasis_v2_5.16.7.bin)
+ - [Kindle Paperwhite（第11代）](https://s3.amazonaws.com/firmwaredownloads/update_kindle_all_new_paperwhite_11th_5.16.7.bin)
+ - [Kindle Paperwhite（第10代）](https://s3.amazonaws.com/firmwaredownloads/update_kindle_all_new_paperwhite_v2_5.16.7.bin)
+ - [Kindle（第11代）](https://s3.amazonaws.com/firmwaredownloads/update_kindle_11th_5.16.7.bin)
+ - [Kindle（第10代）](https://s3.amazonaws.com/firmwaredownloads/update_kindle_10th_5.16.7.bin)
+
 ### 版本 5.16.6.1 Jan 23 2024
- - [Kindle Scribe](https://s3.amazonaws.com/firmwaredownloads/update_kindle_scribe_5.16.6.1.bin)
+本次更新包括：
+ - **套索选择 - 删除**: 在书写工具栏上，套索选择工具可用于删除手写笔划。
+ - **设置**: 【设置】现已更新，现在可以轻松探索和调整设备与阅读的设置。【设备选项】下全新的【日期和时间】设置可供您手动或自动设置本地日期和时间。
+ - **屏幕截图**: 此次更新后截取的屏幕截图将存储在专门的屏幕截图文件夹中，只需通过 USB 将您的 Kindle 连接至计算机，即可访问此文件夹。
+ - 性能改善、问题修复及其他一般性功能加强。
 
 ### 版本 5.16.6 Jan 8 2024
 本次更新包括：
  - **设置**: 【设置】现已更新，现在可以轻松探索和调整设备与阅读的设置。【设备选项】下全新的【日期和时间】设置可供您手动或自动设置本地日期和时间。
  - **屏幕截图**: 此次更新后截取的屏幕截图将存储在专门的屏幕截图文件夹中，只需通过 USB 将您的 Kindle 连接至计算机，即可访问此文件夹。
  - 性能改善、问题修复及其他一般性功能加强。
- - [Kindle Oasis（第10代）](https://s3.amazonaws.com/firmwaredownloads/update_kindle_all_new_oasis_v2_5.16.6.bin)
- - [Kindle Paperwhite（第11代）](https://s3.amazonaws.com/firmwaredownloads/update_kindle_all_new_paperwhite_11th_5.16.6.bin)
- - [Kindle Paperwhite（第10代）](https://s3.amazonaws.com/firmwaredownloads/update_kindle_all_new_paperwhite_v2_5.16.6.bin)
- - [Kindle（第11代）](https://s3.amazonaws.com/firmwaredownloads/update_kindle_11th_5.16.6.bin)
- - [Kindle（第10代）](https://s3.amazonaws.com/firmwaredownloads/update_kindle_10th_5.16.6.bin)
 
 ### 版本 5.16.5 Nov 14 2023
 本次更新包括：
@@ -162,13 +171,8 @@
  - 性能改善、问题修复及其他一般性功能加强。
 
 ### 版本 5.16.2.1.1 Aug 4 2023
- - [Kindle Oasis（第9代）](https://s3.amazonaws.com/firmwaredownloads/update_kindle_all_new_oasis_5.16.2.1.1.bin)
- - [Kindle Oasis（第8代）](https://s3.amazonaws.com/firmwaredownloads/update_kindle_oasis_5.16.2.1.1.bin)
- - [Kindle Paperwhite（第7代）](https://s3.amazonaws.com/firmwaredownloads/update_kindle_all_new_paperwhite_5.16.2.1.1.bin)
- - [Kindle（第8代）](https://s3.amazonaws.com/firmwaredownloads/update_kindle_8th_5.16.2.1.1.bin)
 
 ### 版本 5.16.2.0.1 Aug 4 2023
- - [Kindle Scribe](https://s3.amazonaws.com/firmwaredownloads/update_kindle_scribe_5.16.2.0.1.bin)
 
 ### 版本 5.16.2.1 Jun 21 2023
 本次更新包括：
@@ -180,17 +184,14 @@
  - **套索选择**: 在书写工具栏上，选择套索选择工具可移动、缩放、剪切或复制手写笔划。剪贴板工具会保存复制或剪切的笔划；选择所需的内容后，可粘贴在同一页面或其他的笔记本或电子书上。
  - **在导出时转换文本**: 在笔记本的【分享】菜单中，选择【转换为文本并发送电子邮件】，即可预览和编辑手写笔记本中已转换的文本。选择【转换为文本并快速发送至[您注册的电子邮件地址]】可跳过预览。
  - 性能改善、问题修复及其他一般性功能加强。
- - [Kindle Scribe](https://s3.amazonaws.com/firmwaredownloads/update_kindle_scribe_5.16.2.bin)
 
 ### 版本 5.16.1.3 Apr 17 2023
  - **【Aa】菜单中的对比度滑块**: 在 Write-on Kindle 电子书和【发送至 Kindle】PDF（以原始布局发送）中，您可以调整电子书或文档内容的亮度或清晰度。
  - **【Aa】菜单中的两栏式布局**: 您可以使用【Aa】菜单中的【布局】选项卡切换成横屏模式，然后选择单栏或双栏文本。从亚马逊购买或【发送至 Kindle】的电子书中的可调整布局大多都支持这一功能。
  - **笔记本概览**: 您可以在笔记本概览中以平铺布局的显示方式一次性预览笔记本的多个页面，也可以添加、删除和移动笔记本的各个页面。
  - 性能改善、问题修复及其他一般性功能加强。
- - [Kindle Scribe](https://s3.amazonaws.com/firmwaredownloads/update_kindle_scribe_5.16.1.3.bin)
  
 ### 版本 5.16.1.2.1 Mar 2 2023
- - [Kindle Scribe](https://s3.amazonaws.com/firmwaredownloads/update_kindle_scribe_5.16.1.2.1.bin)
 
 ### 版本 5.16.1.2 Feb 24 2023
 本次更新包括：
@@ -199,14 +200,12 @@
  - **新屏保**: 专为 Kindle Scribe 设计的新屏保图像。要在您的设备上显示新屏保图像，只需确保关闭【显示封面】功能（【更多】>【设置】>【显示选项】）并锁定屏幕即可。
  - **触控笔选项**: 在书写工具栏中，触控笔分为四种类型，每种类型提供五个粗细选项。可访问【设置】>【触控笔设置】>【快捷按钮】来选择触控笔的类型，以按需配置 Premium Pen。
  - 性能改善、问题修复及其他一般性功能加强。
- - [Kindle Scribe](https://s3.amazonaws.com/firmwaredownloads/update_kindle_scribe_5.16.1.2.bin)
 
 ### 版本 5.15.1.1 Feb 20 2023
 本次更新包括：
  - 性能改善、问题修复及其他一般性功能加强。
 
 ### 版本 5.16.1 Nov 22 2022
- - [Kindle Scribe](https://s3.amazonaws.com/firmwaredownloads/update_kindle_scribe_5.16.1.bin)
 
 ### 版本 5.15.1 Sep 27 2022
 本次更新包括：
@@ -503,6 +502,26 @@ Kindle Oasis、Kindle 8 新增功能：
  - Kindle Voyage (7th Generation)
  ```
  https://s3.amazonaws.com/firmwaredownloads/update_kindle_voyage_5.13.6.bin
+ ```
+
+ - Kindle Paperwhite (7th Generation)
+ ```
+ https://s3.amazonaws.com/firmwaredownloads/update_kindle_all_new_paperwhite_5.16.2.1.1.bin
+ ```
+
+ - Kindle (8th Generation)
+ ```
+ https://s3.amazonaws.com/firmwaredownloads/update_kindle_8th_5.16.2.1.1.bin
+ ```
+
+ - Kindle Oasis (8th Generation)
+ ```
+ https://s3.amazonaws.com/firmwaredownloads/update_kindle_oasis_5.16.2.1.1.bin
+ ```
+
+ - Kindle Oasis (9th Generation)
+ ```
+ https://s3.amazonaws.com/firmwaredownloads/update_kindle_all_new_oasis_5.16.2.1.1.bin
  ```
 
  - Kindle X咪咕

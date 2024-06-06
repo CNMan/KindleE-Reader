@@ -132,17 +132,22 @@
   - Kindle（第10代）:[中文](https://s3.amazonaws.com/firmwarereleasenotes/update_kindle_10th/AAHKV2X7AFYLW/zh_CN.html)、[English](https://s3.amazonaws.com/firmwarereleasenotes/update_kindle_10th/ATVPDKIKX0DER/en_US.html)
   - Kindle（第8代）:[中文](https://s3.amazonaws.com/firmwarereleasenotes/update_kindle_8th/AAHKV2X7AFYLW/zh_CN.html)、[English](https://s3.amazonaws.com/firmwarereleasenotes/update_kindle_8th/ATVPDKIKX0DER/en_US.html)
 
+### 版本 5.16.9 Jun 5 2024
+本次更新包括：
+ - **笔记本页面模板**: 您可以更改笔记本中单个页面、选定页面或全部页面的笔记本模板。在【笔记本设置】或【笔记本概览】中更改模板。
+ - 性能改善、问题修复及其他一般性功能加强。
+ - [Kindle Scribe](https://s3.amazonaws.com/firmwaredownloads/update_kindle_scribe_5.16.9.bin)
+ - [Kindle Oasis（第10代）](https://s3.amazonaws.com/firmwaredownloads/update_kindle_all_new_oasis_v2_5.16.9.bin)
+ - [Kindle Paperwhite（第11代）](https://s3.amazonaws.com/firmwaredownloads/update_kindle_all_new_paperwhite_11th_5.16.9.bin)
+ - [Kindle Paperwhite（第10代）](https://s3.amazonaws.com/firmwaredownloads/update_kindle_all_new_paperwhite_v2_5.16.9.bin)
+ - [Kindle（第11代）](https://s3.amazonaws.com/firmwaredownloads/update_kindle_11th_5.16.9.bin)
+ - [Kindle（第10代）](https://s3.amazonaws.com/firmwaredownloads/update_kindle_10th_5.16.9.bin)
+
 ### 版本 5.16.8 Apr 3 2024
 本次更新包括：
  - **睡眠定时器**: 设定 Kindle 进入锁屏前的等待时间，请前往【设置】>【设备选项】。
  - **图书馆搜索筛选器**: 现可按订阅类型和阅读格式来筛选搜索结果。
  - 性能改善、问题修复及其他一般性功能加强。
- - [Kindle Scribe](https://s3.amazonaws.com/firmwaredownloads/update_kindle_scribe_5.16.8.bin)
- - [Kindle Oasis（第10代）](https://s3.amazonaws.com/firmwaredownloads/update_kindle_all_new_oasis_v2_5.16.8.bin)
- - [Kindle Paperwhite（第11代）](https://s3.amazonaws.com/firmwaredownloads/update_kindle_all_new_paperwhite_11th_5.16.8.bin)
- - [Kindle Paperwhite（第10代）](https://s3.amazonaws.com/firmwaredownloads/update_kindle_all_new_paperwhite_v2_5.16.8.bin)
- - [Kindle（第11代）](https://s3.amazonaws.com/firmwaredownloads/update_kindle_11th_5.16.8.bin)
- - [Kindle（第10代）](https://s3.amazonaws.com/firmwaredownloads/update_kindle_10th_5.16.8.bin)
 
 ### 版本 5.16.7 Feb 23 2024
 本次更新包括：

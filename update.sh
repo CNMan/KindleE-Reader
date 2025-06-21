@@ -3,6 +3,8 @@ curl --retry 12 --retry-all-errors https://www.amazon.com/update_Kindle_7th_Gen 
 curl --retry 12 --retry-all-errors https://www.amazon.com/update_Kindle_8th_Gen | sed 's/"/\n/g' | grep bin >>tmp
 curl --retry 12 --retry-all-errors https://www.amazon.com/update_Kindle_10th_Gen | sed 's/"/\n/g' | grep bin >>tmp
 curl --retry 12 --retry-all-errors https://www.amazon.com/update_Kindle_11th_Gen | sed 's/"/\n/g' | grep bin >>tmp
+curl --retry 12 --retry-all-errors https://www.amazon.com/update_Kindle_11th_Gen_2024 | sed 's/"/\n/g' | grep bin >>tmp
+curl --retry 12 --retry-all-errors https://www.amazon.com/update_Kindle_Colorsoft_2024 | sed 's/"/\n/g' | grep bin >>tmp
 curl --retry 12 --retry-all-errors https://www.amazon.com/update_Kindle_Oasis_8th_Gen | sed 's/"/\n/g' | grep bin >>tmp
 curl --retry 12 --retry-all-errors https://www.amazon.com/update_Kindle_Oasis_9th_Gen | sed 's/"/\n/g' | grep bin >>tmp
 curl --retry 12 --retry-all-errors https://www.amazon.com/update_Kindle_Oasis_10th_Gen | sed 's/"/\n/g' | grep bin >>tmp
@@ -11,7 +13,10 @@ curl --retry 12 --retry-all-errors https://www.amazon.com/update_Kindle_Paperwhi
 curl --retry 12 --retry-all-errors https://www.amazon.com/update_Kindle_Paperwhite_10th_Gen | sed 's/"/\n/g' | grep bin >>tmp
 curl --retry 12 --retry-all-errors https://www.amazon.com/update_Kindle_Paperwhite_11th_Gen | sed 's/"/\n/g' | grep bin >>tmp
 curl --retry 12 --retry-all-errors https://www.amazon.com/update_Kindle_Scribe | sed 's/"/\n/g' | grep bin >>tmp
+curl --retry 12 --retry-all-errors https://www.amazon.com/update_Kindle_Scribe_2024 | sed 's/"/\n/g' | grep bin >>tmp
 curl --retry 12 --retry-all-errors https://www.amazon.com/update_Kindle_Voyage_7th_Gen | sed 's/"/\n/g' | grep bin >>tmp
+curl --retry 12 --retry-all-errors https://www.amazon.com/update_KindlePaperwhite_12th_Gen_2024 | sed 's/"/\n/g' | grep bin >>tmp
+
 #wget https://www.amazon.cn/Kindle8Notes -O Kindle_8th_zh.html
 #wget https://www.amazon.cn/Kindle10Notes -O Kindle_10th_zh.html
 #wget https://www.amazon.cn/Kindle11Notes -O Kindle_11th_zh.html
@@ -49,12 +54,16 @@ wget https://s3.amazonaws.com/firmwarereleasenotes/update_kindle_all_new_paperwh
 wget https://s3.amazonaws.com/firmwarereleasenotes/update_kindle_all_new_paperwhite_11th/ATVPDKIKX0DER/en_US.html -O Kindle_Paperwhite_11th_en.html
 wget https://s3.amazonaws.com/firmwarereleasenotes/update_kindle_all_new_paperwhite_v2/AAHKV2X7AFYLW/zh_CN.html -O Kindle_Paperwhite_10th_zh.html
 wget https://s3.amazonaws.com/firmwarereleasenotes/update_kindle_all_new_paperwhite_v2/ATVPDKIKX0DER/en_US.html -O Kindle_Paperwhite_10th_en.html
+wget https://s3.amazonaws.com/firmwarereleasenotes/update_kindle_11th_2024/ATVPDKIKX0DER/en_US.html -O Kindle_Paperwhite_11th_2024_en.html
+wget https://s3.amazonaws.com/firmwarereleasenotes/update_kindle_12th/ATVPDKIKX0DER/en_US.html -O Kindle_Paperwhite_12th_en.html
 wget https://s3.amazonaws.com/firmwarereleasenotes/update_kindle_oasis/AAHKV2X7AFYLW/zh_CN.html -O Kindle_Oasis_8th_zh.html
 wget https://s3.amazonaws.com/firmwarereleasenotes/update_kindle_oasis/ATVPDKIKX0DER/en_US.html -O Kindle_Oasis_8th_en.html
 wget https://s3.amazonaws.com/firmwarereleasenotes/update_kindle_scribe/AAHKV2X7AFYLW/zh_CN.html -O KindleScribe_zh.html
 wget https://s3.amazonaws.com/firmwarereleasenotes/update_kindle_scribe/ATVPDKIKX0DER/en_US.html -O KindleScribe_en.html
+wget https://s3.amazonaws.com/firmwarereleasenotes/update_kindle_scribe_2024/ATVPDKIKX0DER/en_US.html -O KindleScribe_2024_en.html
 wget https://s3.amazonaws.com/firmwarereleasenotes/update_kindle_voyage/AAHKV2X7AFYLW/zh_CN.html -O Kindle_Voyage_7th_zh.html
 wget https://s3.amazonaws.com/firmwarereleasenotes/update_kindle_voyage/ATVPDKIKX0DER/en_US.html -O Kindle_Voyage_7th_en.html
+wget https://s3.amazonaws.com/firmwarereleasenotes/update_kindle_colorsoft/ATVPDKIKX0DER/en_US.html -O KindleColorsoft_1st_en.html
 cat tmp | sort | uniq >KindleE-ReaderSoftwareUpdates
 rm tmp
 git add .

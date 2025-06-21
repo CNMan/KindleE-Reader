@@ -132,6 +132,10 @@
   - Kindle（第10代）:[中文](https://s3.amazonaws.com/firmwarereleasenotes/update_kindle_10th/AAHKV2X7AFYLW/zh_CN.html)、[English](https://s3.amazonaws.com/firmwarereleasenotes/update_kindle_10th/ATVPDKIKX0DER/en_US.html)
   - Kindle（第8代）:[中文](https://s3.amazonaws.com/firmwarereleasenotes/update_kindle_8th/AAHKV2X7AFYLW/zh_CN.html)、[English](https://s3.amazonaws.com/firmwarereleasenotes/update_kindle_8th/ATVPDKIKX0DER/en_US.html)
 
+### 版本 5.16.21.0.2 Sep 13 2024
+本次更新包括：
+ - 性能改善、问题修复及其他一般性功能加强。
+
 ### 版本 5.16.21 Aug 21 2024
 本次更新包括：
  - 性能改善、问题修复及其他一般性功能加强。

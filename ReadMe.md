@@ -132,6 +132,11 @@
   - Kindle（第10代）:[中文](https://s3.amazonaws.com/firmwarereleasenotes/update_kindle_10th/AAHKV2X7AFYLW/zh_CN.html)、[English](https://s3.amazonaws.com/firmwarereleasenotes/update_kindle_10th/ATVPDKIKX0DER/en_US.html)
   - Kindle（第8代）:[中文](https://s3.amazonaws.com/firmwarereleasenotes/update_kindle_8th/AAHKV2X7AFYLW/zh_CN.html)、[English](https://s3.amazonaws.com/firmwarereleasenotes/update_kindle_8th/ATVPDKIKX0DER/en_US.html)
 
+### 版本 5.17.2 Dec 4 2024
+本次更新包括：
+ - **电子书注释功能**: 您现可通过增强型排版和 Word 文档功能在电子书中创建形式更丰富的注释。绘制标注和下划线标记时会自动捕捉笔迹工整的注释，或可在页面上书写时创建一张画布或从书写工具栏插入画布。
+ - 性能改善、问题修复及其他一般性功能加强。
+
 ### 版本 5.17.1.0.1 Nov 6 2024
 本次更新包括：
  - **整体改进**: 【设备选项】中的【Whispersync 图书和笔记本同步】设置如今简称为【同步】。基础同步功能未发生任何更改。

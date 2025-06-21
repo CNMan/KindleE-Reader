@@ -132,7 +132,14 @@
   - Kindle（第10代）:[中文](https://s3.amazonaws.com/firmwarereleasenotes/update_kindle_10th/AAHKV2X7AFYLW/zh_CN.html)、[English](https://s3.amazonaws.com/firmwarereleasenotes/update_kindle_10th/ATVPDKIKX0DER/en_US.html)
   - Kindle（第8代）:[中文](https://s3.amazonaws.com/firmwarereleasenotes/update_kindle_8th/AAHKV2X7AFYLW/zh_CN.html)、[English](https://s3.amazonaws.com/firmwarereleasenotes/update_kindle_8th/ATVPDKIKX0DER/en_US.html)
 
+### 版本 5.18.3 Jun 12 2025
+本次更新包括：
+ - **活动画布 - 移动**: 您可以移动任何插入的画布，只需用手指点击并按住画布，随后在页面上拖动画布即可。
+ - 性能改善、问题修复及其他一般性功能加强。
+
 ### 版本 5.18.1.5 May 15 2025
+本次更新包括：
+ - 性能改善、问题修复及其他一般性功能加强。
 
 ### 版本 5.18.2 Apr 24 2025
 本次更新包括：

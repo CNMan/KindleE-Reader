@@ -132,6 +132,11 @@
   - Kindle（第10代）:[中文](https://s3.amazonaws.com/firmwarereleasenotes/update_kindle_10th/AAHKV2X7AFYLW/zh_CN.html)、[English](https://s3.amazonaws.com/firmwarereleasenotes/update_kindle_10th/ATVPDKIKX0DER/en_US.html)
   - Kindle（第8代）:[中文](https://s3.amazonaws.com/firmwarereleasenotes/update_kindle_8th/AAHKV2X7AFYLW/zh_CN.html)、[English](https://s3.amazonaws.com/firmwarereleasenotes/update_kindle_8th/ATVPDKIKX0DER/en_US.html)
 
+### 版本 5.17.3 Feb 5 2025
+本次更新包括：
+ - **侧面板空白处**: 现在，您可以打开侧面板空白处，在带增强型排版功能的电子书和 Word 文档中做笔记。在插入基座或叠加设置之间进行选择，然后点击方块以调整宽度。
+ - 性能改善、问题修复及其他一般性功能加强。
+
 ### 版本 5.17.1.0.3 Dec 9 2024
 本次更新包括：
  - **整体改进**: 【设备选项】中的【Whispersync 图书同步】设置如今简称为【同步】。基础同步功能未发生任何更改。

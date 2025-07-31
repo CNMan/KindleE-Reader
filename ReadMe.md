@@ -120,17 +120,26 @@
 ## [Kindle E-Reader Software Updates](https://www.amazon.com/gp/help/customer/display.html?nodeId=GKMQC26VQQMM8XSW)
 
 ### 更新歷史
-  - Kindle Scribe:[中文](https://s3.amazonaws.com/firmwarereleasenotes/update_kindle_scribe/AAHKV2X7AFYLW/zh_CN.html)、[English](https://s3.amazonaws.com/firmwarereleasenotes/update_kindle_scribe/ATVPDKIKX0DER/en_US.html)
+  - Kindle Scribe - 2024:[中文](https://s3.amazonaws.com/firmwarereleasenotes/update_kindle_scribe_2024/AAHKV2X7AFYLW/zh_CN.html)、[English](https://s3.amazonaws.com/firmwarereleasenotes/update_kindle_scribe_2024/ATVPDKIKX0DER/en_US.html)
+  - Kindle Scribe - 2022:[中文](https://s3.amazonaws.com/firmwarereleasenotes/update_kindle_scribe/AAHKV2X7AFYLW/zh_CN.html)、[English](https://s3.amazonaws.com/firmwarereleasenotes/update_kindle_scribe/ATVPDKIKX0DER/en_US.html)
+  - Kindle Colorsoft（第1代）:[中文](https://s3.amazonaws.com/firmwarereleasenotes/update_kindle_colorsoft/AAHKV2X7AFYLW/zh_CN.html)、[English](https://s3.amazonaws.com/firmwarereleasenotes/update_kindle_colorsoft/ATVPDKIKX0DER/en_US.html)
   - Kindle Oasis（第10代）:[中文](https://s3.amazonaws.com/firmwarereleasenotes/update_kindle_all_new_oasis_v2/AAHKV2X7AFYLW/zh_CN.html)、[English](https://s3.amazonaws.com/firmwarereleasenotes/update_kindle_all_new_oasis_v2/ATVPDKIKX0DER/en_US.html)
   - Kindle Oasis（第9代）:[中文](https://s3.amazonaws.com/firmwarereleasenotes/update_kindle_all_new_oasis/AAHKV2X7AFYLW/zh_CN.html)、[English](https://s3.amazonaws.com/firmwarereleasenotes/update_kindle_all_new_oasis/ATVPDKIKX0DER/en_US.html)
   - Kindle Oasis（第8代）:[中文](https://s3.amazonaws.com/firmwarereleasenotes/update_kindle_oasis/AAHKV2X7AFYLW/zh_CN.html)、[English](https://s3.amazonaws.com/firmwarereleasenotes/update_kindle_oasis/ATVPDKIKX0DER/en_US.html)
   - Kindle Voyage（第7代）:[中文](https://s3.amazonaws.com/firmwarereleasenotes/update_kindle_voyage/AAHKV2X7AFYLW/zh_CN.html)、[English](https://s3.amazonaws.com/firmwarereleasenotes/update_kindle_voyage/ATVPDKIKX0DER/en_US.html)
+  - Kindle Paperwhite（第12代）:[中文](https://s3.amazonaws.com/firmwarereleasenotes/update_kindle_12th/AAHKV2X7AFYLW/zh_CN.html)、[English](https://s3.amazonaws.com/firmwarereleasenotes/update_kindle_12th/ATVPDKIKX0DER/en_US.html)
   - Kindle Paperwhite（第11代）:[中文](https://s3.amazonaws.com/firmwarereleasenotes/update_kindle_all_new_paperwhite_11th/AAHKV2X7AFYLW/zh_CN.html)、[English](https://s3.amazonaws.com/firmwarereleasenotes/update_kindle_all_new_paperwhite_11th/ATVPDKIKX0DER/en_US.html)
   - Kindle Paperwhite（第10代）:[中文](https://s3.amazonaws.com/firmwarereleasenotes/update_kindle_all_new_paperwhite_v2/AAHKV2X7AFYLW/zh_CN.html)、[English](https://s3.amazonaws.com/firmwarereleasenotes/update_kindle_all_new_paperwhite_v2/ATVPDKIKX0DER/en_US.html)
   - Kindle Paperwhite（第7代）:[中文](https://s3.amazonaws.com/firmwarereleasenotes/update_kindle_all_new_paperwhite/AAHKV2X7AFYLW/zh_CN.html)、[English](https://s3.amazonaws.com/firmwarereleasenotes/update_kindle_all_new_paperwhite/ATVPDKIKX0DER/en_US.html)
-  - Kindle（第11代）:[中文](https://s3.amazonaws.com/firmwarereleasenotes/update_kindle_11th/AAHKV2X7AFYLW/zh_CN.html)、[English](https://s3.amazonaws.com/firmwarereleasenotes/update_kindle_11th/ATVPDKIKX0DER/en_US.html)
+  - Kindle - 2024（第11代）:[中文](https://s3.amazonaws.com/firmwarereleasenotes/update_kindle_11th_2024/AAHKV2X7AFYLW/zh_CN.html)、[English](https://s3.amazonaws.com/firmwarereleasenotes/update_kindle_11th_2024/ATVPDKIKX0DER/en_US.html)
+  - Kindle - 2022（第11代）:[中文](https://s3.amazonaws.com/firmwarereleasenotes/update_kindle_11th/AAHKV2X7AFYLW/zh_CN.html)、[English](https://s3.amazonaws.com/firmwarereleasenotes/update_kindle_11th/ATVPDKIKX0DER/en_US.html)
   - Kindle（第10代）:[中文](https://s3.amazonaws.com/firmwarereleasenotes/update_kindle_10th/AAHKV2X7AFYLW/zh_CN.html)、[English](https://s3.amazonaws.com/firmwarereleasenotes/update_kindle_10th/ATVPDKIKX0DER/en_US.html)
   - Kindle（第8代）:[中文](https://s3.amazonaws.com/firmwarereleasenotes/update_kindle_8th/AAHKV2X7AFYLW/zh_CN.html)、[English](https://s3.amazonaws.com/firmwarereleasenotes/update_kindle_8th/ATVPDKIKX0DER/en_US.html)
+
+### 版本 5.18.4 Jul 30 2025
+本次更新包括：
+ - **多语言笔记**: 您的设备现可支持多语言手写识别。每本笔记可设置另一种语言进行文本转换。设置您的首选语言：打开笔记本，进入笔记本设置界面，设定手写识别语言。
+ - 性能改善、问题修复及其他一般性功能加强。
 
 ### 版本 5.18.3 Jun 12 2025
 本次更新包括：

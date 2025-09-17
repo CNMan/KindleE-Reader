@@ -136,6 +136,18 @@
   - Kindle（第10代）:[中文](https://s3.amazonaws.com/firmwarereleasenotes/update_kindle_10th/AAHKV2X7AFYLW/zh_CN.html)、[English](https://s3.amazonaws.com/firmwarereleasenotes/update_kindle_10th/ATVPDKIKX0DER/en_US.html)
   - Kindle（第8代）:[中文](https://s3.amazonaws.com/firmwarereleasenotes/update_kindle_8th/AAHKV2X7AFYLW/zh_CN.html)、[English](https://s3.amazonaws.com/firmwarereleasenotes/update_kindle_8th/ATVPDKIKX0DER/en_US.html)
 
+### 版本 5.18.5 Sep 16 2025
+本次更新包括：
+ - **锁定屏幕方向**: 移动 Kindle 时，请将屏幕锁定为竖屏或横屏模式。
+ - **更大的界面文字**: 现在您可以调整 Kindle 用户界面字体大小，以此优化阅读体验。请前往【设置】中的【屏幕和亮度】菜单进行调整。
+ - **新的文本间距选项**: 现在您可以前往阅读设置（【Aa】）菜单的【字体】选项卡，以调整段落、字词和字符的间距。
+ - **辅助阅读器**: 借助辅助阅读器，您可以使用语音朗读功能享受听书的乐趣，还没能实时同步下划线进行跟读。辅助阅读器目前支持英语、西班牙语、法语、德语和意大利语书籍。
+ - 性能改善、问题修复及其他一般性功能加强。
+
+### 版本 5.18.4.0.1 Aug 19 2025
+ - **多语言笔记**: 您的设备现可支持多语言手写识别。每本笔记可设置另一种语言进行文本转换。设置您的首选语言：打开笔记本，进入笔记本设置界面，设定手写识别语言。
+ - 性能改善、问题修复及其他一般性功能加强。
+
 ### 版本 5.18.4 Jul 30 2025
 本次更新包括：
  - **多语言笔记**: 您的设备现可支持多语言手写识别。每本笔记可设置另一种语言进行文本转换。设置您的首选语言：打开笔记本，进入笔记本设置界面，设定手写识别语言。

@@ -120,24 +120,27 @@
 ## [Kindle E-Reader Software Updates](https://www.amazon.com/gp/help/customer/display.html?nodeId=GKMQC26VQQMM8XSW)
 
 ### 更新歷史
-  - Kindle Scribe - 2024:[中文](https://s3.amazonaws.com/firmwarereleasenotes/update_kindle_scribe_2024/AAHKV2X7AFYLW/zh_CN.html)、[English](https://s3.amazonaws.com/firmwarereleasenotes/update_kindle_scribe_2024/ATVPDKIKX0DER/en_US.html)
-  - Kindle Scribe - 2022:[中文](https://s3.amazonaws.com/firmwarereleasenotes/update_kindle_scribe/AAHKV2X7AFYLW/zh_CN.html)、[English](https://s3.amazonaws.com/firmwarereleasenotes/update_kindle_scribe/ATVPDKIKX0DER/en_US.html)
+  - Kindle Scribe - 3rd Generation:[中文](https://s3.amazonaws.com/firmwarereleasenotes/update_kindle_scribe_3rd_generation/AAHKV2X7AFYLW/zh_CN.html)、[English](https://s3.amazonaws.com/firmwarereleasenotes/update_kindle_scribe_3rd_generation/ATVPDKIKX0DER/en_US.html)
+  - Kindle Scribe - 2024 Release:[中文](https://s3.amazonaws.com/firmwarereleasenotes/update_kindle_scribe_2024/AAHKV2X7AFYLW/zh_CN.html)、[English](https://s3.amazonaws.com/firmwarereleasenotes/update_kindle_scribe_2024/ATVPDKIKX0DER/en_US.html)
+  - Kindle Scribe - 2022 Release:[中文](https://s3.amazonaws.com/firmwarereleasenotes/update_kindle_scribe/AAHKV2X7AFYLW/zh_CN.html)、[English](https://s3.amazonaws.com/firmwarereleasenotes/update_kindle_scribe/ATVPDKIKX0DER/en_US.html)
+  - Kindle Scribe Colorsoft（第1代）:[中文](https://s3.amazonaws.com/firmwarereleasenotes/update_kindle_scribe_colorsoft_1st_generation/AAHKV2X7AFYLW/zh_CN.html)、[English](https://s3.amazonaws.com/firmwarereleasenotes/update_kindle_scribe_colorsoft_1st_generation/ATVPDKIKX0DER/en_US.html)
   - Kindle Colorsoft（第1代）:[中文](https://s3.amazonaws.com/firmwarereleasenotes/update_kindle_colorsoft/AAHKV2X7AFYLW/zh_CN.html)、[English](https://s3.amazonaws.com/firmwarereleasenotes/update_kindle_colorsoft/ATVPDKIKX0DER/en_US.html)
-  - Kindle Oasis（第10代）:[中文](https://s3.amazonaws.com/firmwarereleasenotes/update_kindle_all_new_oasis_v2/AAHKV2X7AFYLW/zh_CN.html)、[English](https://s3.amazonaws.com/firmwarereleasenotes/update_kindle_all_new_oasis_v2/ATVPDKIKX0DER/en_US.html)
-  - Kindle Oasis（第9代）:[中文](https://s3.amazonaws.com/firmwarereleasenotes/update_kindle_all_new_oasis/AAHKV2X7AFYLW/zh_CN.html)、[English](https://s3.amazonaws.com/firmwarereleasenotes/update_kindle_all_new_oasis/ATVPDKIKX0DER/en_US.html)
-  - Kindle Oasis（第8代）:[中文](https://s3.amazonaws.com/firmwarereleasenotes/update_kindle_oasis/AAHKV2X7AFYLW/zh_CN.html)、[English](https://s3.amazonaws.com/firmwarereleasenotes/update_kindle_oasis/ATVPDKIKX0DER/en_US.html)
-  - Kindle Voyage（第7代）:[中文](https://s3.amazonaws.com/firmwarereleasenotes/update_kindle_voyage/AAHKV2X7AFYLW/zh_CN.html)、[English](https://s3.amazonaws.com/firmwarereleasenotes/update_kindle_voyage/ATVPDKIKX0DER/en_US.html)
   - Kindle Paperwhite（第12代）:[中文](https://s3.amazonaws.com/firmwarereleasenotes/update_kindle_12th/AAHKV2X7AFYLW/zh_CN.html)、[English](https://s3.amazonaws.com/firmwarereleasenotes/update_kindle_12th/ATVPDKIKX0DER/en_US.html)
   - Kindle Paperwhite（第11代）:[中文](https://s3.amazonaws.com/firmwarereleasenotes/update_kindle_all_new_paperwhite_11th/AAHKV2X7AFYLW/zh_CN.html)、[English](https://s3.amazonaws.com/firmwarereleasenotes/update_kindle_all_new_paperwhite_11th/ATVPDKIKX0DER/en_US.html)
-  - Kindle Paperwhite（第10代）:[中文](https://s3.amazonaws.com/firmwarereleasenotes/update_kindle_all_new_paperwhite_v2/AAHKV2X7AFYLW/zh_CN.html)、[English](https://s3.amazonaws.com/firmwarereleasenotes/update_kindle_all_new_paperwhite_v2/ATVPDKIKX0DER/en_US.html)
-  - Kindle Paperwhite（第7代）:[中文](https://s3.amazonaws.com/firmwarereleasenotes/update_kindle_all_new_paperwhite/AAHKV2X7AFYLW/zh_CN.html)、[English](https://s3.amazonaws.com/firmwarereleasenotes/update_kindle_all_new_paperwhite/ATVPDKIKX0DER/en_US.html)
   - Kindle - 2024（第11代）:[中文](https://s3.amazonaws.com/firmwarereleasenotes/update_kindle_11th_2024/AAHKV2X7AFYLW/zh_CN.html)、[English](https://s3.amazonaws.com/firmwarereleasenotes/update_kindle_11th_2024/ATVPDKIKX0DER/en_US.html)
   - Kindle - 2022（第11代）:[中文](https://s3.amazonaws.com/firmwarereleasenotes/update_kindle_11th/AAHKV2X7AFYLW/zh_CN.html)、[English](https://s3.amazonaws.com/firmwarereleasenotes/update_kindle_11th/ATVPDKIKX0DER/en_US.html)
-  - Kindle（第10代）:[中文](https://s3.amazonaws.com/firmwarereleasenotes/update_kindle_10th/AAHKV2X7AFYLW/zh_CN.html)、[English](https://s3.amazonaws.com/firmwarereleasenotes/update_kindle_10th/ATVPDKIKX0DER/en_US.html)
-  - Kindle（第8代）:[中文](https://s3.amazonaws.com/firmwarereleasenotes/update_kindle_8th/AAHKV2X7AFYLW/zh_CN.html)、[English](https://s3.amazonaws.com/firmwarereleasenotes/update_kindle_8th/ATVPDKIKX0DER/en_US.html)
+
+### 版本 5.19.2 Feb 16 2026
+ - **Google Drive 和 Microsoft OneDrive**: 新增了一个设置选项，用于控制从云盘导入的文件是否可在您的 Kindle 设备之间共享。前往【设置】>【连接】，了解详情。
+ - 性能改善、问题修复及其他一般性功能加强。
+
+### 版本 5.18.6 Nov 4 2025
+ - **图书链接预览窗口**: 长按书中的内部链接可打开预览窗口。
+ - 性能改善、问题修复及其他一般性功能加强。
+
+### 版本 5.18.5.0.1 Sep 25 2025
 
 ### 版本 5.18.5 Sep 16 2025
-本次更新包括：
  - **锁定屏幕方向**: 移动 Kindle 时，请将屏幕锁定为竖屏或横屏模式。
  - **更大的界面文字**: 现在您可以调整 Kindle 用户界面字体大小，以此优化阅读体验。请前往【设置】中的【屏幕和亮度】菜单进行调整。
  - **新的文本间距选项**: 现在您可以前往阅读设置（【Aa】）菜单的【字体】选项卡，以调整段落、字词和字符的间距。
@@ -149,109 +152,88 @@
  - 性能改善、问题修复及其他一般性功能加强。
 
 ### 版本 5.18.4 Jul 30 2025
-本次更新包括：
  - **多语言笔记**: 您的设备现可支持多语言手写识别。每本笔记可设置另一种语言进行文本转换。设置您的首选语言：打开笔记本，进入笔记本设置界面，设定手写识别语言。
  - 性能改善、问题修复及其他一般性功能加强。
 
 ### 版本 5.18.3 Jun 12 2025
-本次更新包括：
  - **活动画布 - 移动**: 您可以移动任何插入的画布，只需用手指点击并按住画布，随后在页面上拖动画布即可。
  - 性能改善、问题修复及其他一般性功能加强。
 
 ### 版本 5.18.1.5 May 15 2025
-本次更新包括：
  - 性能改善、问题修复及其他一般性功能加强。
 
 ### 版本 5.18.2 Apr 24 2025
-本次更新包括：
  - **作者姓名以“名字+姓氏”的格式显示。**: 作者姓名如今以“名字+姓氏”的格式显示在内容库中（先前为“姓氏+名字”）。排序仍然以姓氏为准。
  - 性能改善、问题修复及其他一般性功能加强。
 
 ### 版本 5.18.1 Mar 25 2025
-本次更新包括：
  - 性能改善、问题修复及其他一般性功能加强。
 
 ### 版本 5.17.3 Feb 5 2025
-本次更新包括：
  - **侧面板空白处**: 现在，您可以打开侧面板空白处，在带增强型排版功能的电子书和 Word 文档中做笔记。在插入基座或叠加设置之间进行选择，然后点击方块以调整宽度。
  - 性能改善、问题修复及其他一般性功能加强。
 
 ### 版本 5.17.1.0.3 Dec 9 2024
-本次更新包括：
  - **整体改进**: 【设备选项】中的【Whispersync 图书同步】设置如今简称为【同步】。基础同步功能未发生任何更改。
  - **漏洞修复**: 已解决以下问题：客户在打开阅读工具栏时可能已遇到的问题、【章节剩余时间】不可用，以及使用日语汉字注音或者【主页】和【图书馆】中的【前往】选项时出现崩溃。
  - 性能改善、问题修复及其他一般性功能加强。
 
 ### 版本 5.17.2 Dec 4 2024
-本次更新包括：
  - **电子书注释功能**: 您现可通过增强型排版和 Word 文档功能在电子书中创建形式更丰富的注释。绘制标注和下划线标记时会自动捕捉笔迹工整的注释，或可在页面上书写时创建一张画布或从书写工具栏插入画布。
  - 性能改善、问题修复及其他一般性功能加强。
 
 ### 版本 5.17.1.0.1 Nov 6 2024
-本次更新包括：
  - **整体改进**: 【设备选项】中的【Whispersync 图书和笔记本同步】设置如今简称为【同步】。基础同步功能未发生任何更改。
  - 性能改善、问题修复及其他一般性功能加强。
 
 ### 版本 5.17.1 Oct 17 2024
-本次更新包括：
  - **整体改进**: 【设备选项】中的【Whispersync 图书同步】设置如今简称为【同步】。基础同步功能未发生任何更改。
  - **漏洞修复**: 已解决以下问题：客户在打开阅读工具栏时可能已遇到的问题、【章节剩余时间】不可用，以及使用日语汉字注音或者【主页】和【图书馆】中的【前往】选项时出现崩溃。
  - 性能改善、问题修复及其他一般性功能加强。
 
 ### 版本 5.16.21.0.2 Sep 13 2024
-本次更新包括：
  - 性能改善、问题修复及其他一般性功能加强。
 
 ### 版本 5.16.21 Aug 21 2024
-本次更新包括：
  - 性能改善、问题修复及其他一般性功能加强。
 
 ### 版本 5.16.10.0.1 Jul 23 2024
-本次更新包括：
  - **您的书单更新**: 现在，“我的书单”表示“我的阅读清单”。“我的书单”实时显示您从亚马逊书单中保存的图书。要查找样章，请在您的图书馆中使用样章过滤器。
  - 性能改善、问题修复及其他一般性功能加强。
 
 ### 版本 5.16.9 Jun 5 2024
-本次更新包括：
  - **笔记本页面模板**: 您可以更改笔记本中单个页面、选定页面或全部页面的笔记本模板。在【笔记本设置】或【笔记本概览】中更改模板。
  - 性能改善、问题修复及其他一般性功能加强。
 
 ### 版本 5.16.8 Apr 3 2024
-本次更新包括：
  - **睡眠定时器**: 设定 Kindle 进入锁屏前的等待时间，请前往【设置】>【设备选项】。
  - **图书馆搜索筛选器**: 现可按订阅类型和阅读格式来筛选搜索结果。
  - 性能改善、问题修复及其他一般性功能加强。
 
 ### 版本 5.16.7 Feb 23 2024
-本次更新包括：
  - 性能改善、问题修复及其他一般性功能加强。
 
 ### 版本 5.16.6.1 Jan 23 2024
-本次更新包括：
  - **套索选择 - 删除**: 在书写工具栏上，套索选择工具可用于删除手写笔划。
  - **设置**: 【设置】现已更新，现在可以轻松探索和调整设备与阅读的设置。【设备选项】下全新的【日期和时间】设置可供您手动或自动设置本地日期和时间。
  - **屏幕截图**: 此次更新后截取的屏幕截图将存储在专门的屏幕截图文件夹中，只需通过 USB 将您的 Kindle 连接至计算机，即可访问此文件夹。
  - 性能改善、问题修复及其他一般性功能加强。
 
 ### 版本 5.16.6 Jan 8 2024
-本次更新包括：
  - **设置**: 【设置】现已更新，现在可以轻松探索和调整设备与阅读的设置。【设备选项】下全新的【日期和时间】设置可供您手动或自动设置本地日期和时间。
  - **屏幕截图**: 此次更新后截取的屏幕截图将存储在专门的屏幕截图文件夹中，只需通过 USB 将您的 Kindle 连接至计算机，即可访问此文件夹。
  - 性能改善、问题修复及其他一般性功能加强。
 
 ### 版本 5.16.5 Nov 14 2023
-本次更新包括：
  - **使用列表布局查看收藏夹**: 在【图书馆】中，现在可以切换到【收藏夹】视图，然后选择【网格】或【列表】布局以查看内容。请点击【图书馆】右上方的视图和分类菜单图标，即可找到这些设置。
  - 性能改善、问题修复及其他一般性功能加强。
 
 ### 版本 5.16.4 Oct 24 2023
-本次更新包括：
  - 性能改善、问题修复及其他一般性功能加强。
 
 ### 版本 5.16.3.1 Oct 1 2023
 
 ### 版本 5.16.3 Aug 28 2023
-本次更新包括：
  - 性能改善、问题修复及其他一般性功能加强。
 
 ### 版本 5.16.2.1.1 Aug 4 2023
@@ -259,11 +241,9 @@
 ### 版本 5.16.2.0.1 Aug 4 2023
 
 ### 版本 5.16.2.1 Jun 21 2023
-本次更新包括：
  - 性能改善、问题修复及其他一般性功能加强。
 
 ### 版本 5.16.2 May 17 2023
-本次更新包括：
  - **PDF 阅读体验优化**: 对于通过【发送至 Kindle】上传的 PDF，可在横屏和竖屏模式之间切换、裁剪页边距、选择文本并用手指或触控笔做标注和添加文本笔记，或查询字典释义、翻译和维基百科结果。
  - **套索选择**: 在书写工具栏上，选择套索选择工具可移动、缩放、剪切或复制手写笔划。剪贴板工具会保存复制或剪切的笔划；选择所需的内容后，可粘贴在同一页面或其他的笔记本或电子书上。
  - **在导出时转换文本**: 在笔记本的【分享】菜单中，选择【转换为文本并发送电子邮件】，即可预览和编辑手写笔记本中已转换的文本。选择【转换为文本并快速发送至[您注册的电子邮件地址]】可跳过预览。
@@ -278,7 +258,6 @@
 ### 版本 5.16.1.2.1 Mar 2 2023
 
 ### 版本 5.16.1.2 Feb 24 2023
-本次更新包括：
  - **前往笔记本的页面**: 快速导航到笔记本的特定页面。请打开主工具栏，点击溢出菜单，然后选择【前往页面】。在对话框中输入页码，然后点击【前往】导航到那一页。
  - **【笔记本】选项卡中的子文件夹**: 您现在可以在其他文件夹内创建文件夹，也可以通过【移动】选项（点击文件夹封面上的溢出菜单，或长按文件夹名称或封面即可访问）将文件夹移动到其他文件夹中。
  - **新屏保**: 专为 Kindle Scribe 设计的新屏保图像。要在您的设备上显示新屏保图像，只需确保关闭【显示封面】功能（【更多】>【设置】>【显示选项】）并锁定屏幕即可。
@@ -286,23 +265,19 @@
  - 性能改善、问题修复及其他一般性功能加强。
 
 ### 版本 5.15.1.1 Feb 20 2023
-本次更新包括：
  - 性能改善、问题修复及其他一般性功能加强。
 
 ### 版本 5.16.1 Nov 22 2022
 
 ### 版本 5.15.1 Sep 27 2022
-本次更新包括：
  - **支持 WPA3**: 此 Kindle 现可连接 WPA3 安全类型。这样即可启用行业领先的无线安全标准。
  - **充电端口安全功能**: 当 USB-C 充电端口检测到液体时，主页顶部会显示液体检测指示图标，同时阻止为设备充电，直到液体干燥为止。
  - 性能改善、问题修复及其他一般性功能加强。
 
 ### 版本 5.14.3.2 Aug 4 2022
-本次更新包括：
  - 性能改善、问题修复及其他一般性功能加强。
 
 ### 版本 5.14.3.0.1 May 13 2022
-本次更新包括：
  - **全新的网格视图和列表视图**: 我们更新了图书馆的视图设计，在列表视图中增加了更丰富的细节。现可从中查看封面艺术、更多作品以及最新阅读进度。
  - **筛选和排序菜单**: 筛选和排序菜单现提供更多控制选项。在排序菜单中，现可选择按出版日期排序，并可对每个排序字段切换升序/降序模式。还可在此查看设置访问收藏夹的视图模式。
  - **滚动条导航**: 全新设计的图书馆滚动条，可以实现拖动以扫描、点击任意位置以跳选，或长按以连续滚动。
@@ -313,7 +288,6 @@
  - 性能改善、问题修复及其他一般性功能加强。
 
 ### 版本 5.14.3 Apr 25 2022
-本次更新包括：
  - **全新的网格视图和列表视图**: 我们更新了图书馆的视图设计，在列表视图中增加了更丰富的细节。现可从中查看封面艺术、更多作品以及最新阅读进度。
  - **筛选和排序菜单**: 筛选和排序菜单现提供更多控制选项。在排序菜单中，现可选择按出版日期排序，并可对每个排序字段切换升序/降序模式。还可在此查看设置访问收藏夹的视图模式。
  - **滚动条导航**: 全新设计的图书馆滚动条，可以实现拖动以扫描、点击任意位置以跳选，或长按以连续滚动。
@@ -324,41 +298,33 @@
  - 性能改善、问题修复及其他一般性功能加强。
 
 ### 版本 5.14.2 Feb 4 2022
-本次更新包括：
  - 性能改善、问题修复及其他一般性功能加强。
 
 ### 版本 5.14.1.1 Oct 5 2021
-本次更新包括：
  - **翻页动画效果**: 您现在可以调整大多数电子书的翻页样式。这项新功能现在位于【Aa 菜单】-> 【其他】中，并添加了一款新的翻页样式，附带定向动画效果。
  - **阅读时的导航选项**: 在添加了脚注、尾注、书签、笔记/标注或链接的电子书里，您现在可以更快捷地完成导航操作。
  - **设备识别功能改进**: Kindle 型号和版本信息现在可以在 Kindle【设置】的【设备信息】页面中找到。
  - 性能改善、问题修复及其他一般性功能加强。
 
 ### 版本 5.14.1 Oct 5 2021
-本次更新包括：
  - **阅读时的导航选项**: 在添加了脚注、尾注、书签、笔记/标注或链接的电子书里，您现在可以更快捷地完成导航操作。
  - 性能改善、问题修复及其他一般性功能加强。
 
 ### 版本 5.13.7 Aug 13 2021
-本次更新包括：
  - **设备识别功能改进** Kindle 型号和版本信息现在可以在 Kindle 【设置】的【设备信息】页面中找到。
  - 性能改善、问题修复及其他一般性功能加强。
 
 ### 版本 5.13.6 May 11 2021
-本次更新包括：
  - 性能改善、问题修复及其他一般性功能加强。
 
 ### 版本 5.13.5 Feb 26 2021
-本次更新包括：
  - 性能改善、问题修复及其他一般性功能加强。
 
 ### 版本 5.13.4 Dec 1 2020
-本次更新包括：
  - **扩展主页内容**：您可在主页滚动查看多达 5 页内容。
  - 性能改善、问题修复及其他一般性功能加强。
 
 ### 版本 5.13.3 Oct 9 2020
-本次更新包括：
  - **Kindle 用户指南**：“Kindle 用户指南”已移至“设置”中的“帮助”菜单。 旧版指南保存在您的内容库结尾处的用户指南文件夹中。
  - **主页上显示 Kindle Unlimited / Prime 标志**：用户可查看其家庭推荐中的哪本书可以从 Kindle Unlimited 或 Prime 阅读免费借阅。
  - 性能改善、问题修复及其他一般性功能加强。
@@ -372,43 +338,34 @@
   - **更新了快速翻书导航**： 我们更新了翻书的体验，进度条上会用圆点显示最近阅读的页面，包括最近在其他设备上阅读的页面。
   - 性能改善、问题修复、及其他一般性功能加强。
 ### 版本 5.12.5 Apr 10 2020
-本次更新包括：
   - **渐进式下载**：开始下载图书时，您无需等待图书全部下载完成即可进行阅读。我们支持您在下载过程中打开图书。
   - **在不同设备间无缝畅读**：在接下来的几周里，您将会看到一个更新的页面位置对话框，里面提供了一些有关您最近阅读位置的有用信息，让您可以更轻松地在当前和最近阅读的页面之间切换。
   - 性能改善、问题修复、及其他一般性功能加强。
 ### 版本 5.12.4 Feb 19 2020
-本次更新包括：
   - **Aa 菜单**：接下来几周里，您将会看到更新的 Aa 菜单，让您无需离开图书，即可轻松设置字体、布局和阅读选项。
   - 性能改善、问题修复、及其他一般性功能加强。
 ### 版本 5.12.3 Dec 2 2019
-本次更新包括：
   - **图书馆徽章**：图书馆中的 Prime 和 Kindle Unlimited 包月服务图书现在都带有相应的徽章。
   - 以及性能改善、问题修复、及其他一般性功能加强。
 ### 版本 5.12.2 Oct 1 2019
-本次更新包括：
   - **在商店界面立即阅读**：未来几周，您将能够在商店的详情或感谢页面中，一键阅读拥有的图书。
   - **立即阅读 Kindle Unlimited 包月服务/Prime 阅读图书**：未来几周，您将能够通过点击图书结尾处的推荐书单，一键阅读 Kindle Unlimited 包月服务/Prime 阅读图书。
   - 以及性能改善、问题修复、及其他一般性功能加强。
 ### 版本 5.12.1.1 Jul 19 2019(僅適用於Kindle Oasis 3)
-本次更新包括：
   - **色温定时功能**：为前置阅读灯色温从冷白色自动调到暖黄色提供定时功能。
   - **立即阅读**：接下来几周内，您将能在“还请留步…”页面一键阅读已拥有的电子书。
   - 以及性能改善、问题修复、及其他一般性功能加强。
 ### 版本 5.12.1 Jul 5 2019
-本次更新包括：
   - **立即阅读**：接下来几周内，您将能在“还请留步…”页面一键阅读已拥有的电子书。
   - 以及性能改善、问题修复、及其他一般性功能加强。
 ### 版本 5.11.2 May 29 2019
-本次更新包括：
   - **增强的筛选器功能**：可使用“筛选器”功能单独查看 Kindle Unlimited、Prime 阅读项目和样本内容。
   - 以及性能改善、问题修复、及其他一般性功能加强。
 ### 版本 5.11.1.1 Mar 26 2019
-本次更新包括：
   - **新增翻译语言**：新增南非语、加泰罗尼亚语、冰岛语、瑞典语以及威尔士语的翻译支持。
   - **新增键盘语言**：新增南非语、丹麦语、冰岛语、挪威语以及瑞典语的键盘支持。
   - 性能改善、问题修复、及其他一般性功能加强。
 ### 版本 5.11.1(僅適用於Kindle Paperwhite 4)
-本次更新包括：
   - **新增翻译语言**：新增南非语、加泰罗尼亚语、冰岛语、瑞典语以及威尔士语的翻译支持。
   - **新增键盘语言**：新增南非语、丹麦语、冰岛语、挪威语以及瑞典语的键盘支持。
   - 性能改善、问题修复、及其他一般性功能加强。
@@ -598,6 +555,16 @@ Kindle Oasis、Kindle 8 新增功能：
  https://s3.amazonaws.com/firmwaredownloads/update_kindle_8th_5.16.2.1.1.bin
  ```
 
+ - Kindle (10th Generation)
+ ```
+ https://s3.amazonaws.com/firmwaredownloads/update_kindle_10th_5.18.1.bin
+ ```
+ 
+ - Kindle Paperwhite (10th Generation)
+ ```
+ https://s3.amazonaws.com/firmwaredownloads/update_kindle_all_new_paperwhite_v2_5.18.1.bin
+ ```
+ 
  - Kindle Oasis (8th Generation)
  ```
  https://s3.amazonaws.com/firmwaredownloads/update_kindle_oasis_5.16.2.1.1.bin
@@ -608,6 +575,11 @@ Kindle Oasis、Kindle 8 新增功能：
  https://s3.amazonaws.com/firmwaredownloads/update_kindle_all_new_oasis_5.16.2.1.1.bin
  ```
 
+ - Kindle Oasis (10th Generation)
+ ```
+ https://s3.amazonaws.com/firmwaredownloads/update_kindle_all_new_oasis_v2_5.18.2.bin
+ ```
+ 
  - Kindle X咪咕
  ```
  https://fireos-eink-src.s3.amazonaws.com/HawmZJqHBeyH28bnKI0dFD4Cih/update-kindle-6.6.0_user_660655220.bin

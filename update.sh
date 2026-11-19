@@ -1,23 +1,23 @@
-#curl --retry 12 --retry-all-errors 'https://www.amazon.com/gp/help/customer/display.html?nodeId=GKMQC26VQQMM8XSW' -H 'User-Agent: Mozilla/5.0 (X11; Linux x86_64; rv:78.0) Gecko/20100101 Firefox/78.0' -H 'Accept: text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,*/*;q=0.8' -H 'Accept-Language: en-US,en;q=0.5' -H 'Referer: https://www.amazon.com/gp/help/customer/display.html?nodeId=200529680' -H 'Upgrade-Insecure-Requests: 1' -H 'Cache-Control: max-age=0' -H 'TE: Trailers' | sed 's/"/\n/g' | grep bin | grep https >tmp
-curl --retry 12 --retry-all-errors https://www.amazon.com/update_Kindle_7th_Gen | sed 's/"/\n/g' | grep bin >>tmp
-curl --retry 12 --retry-all-errors https://www.amazon.com/update_Kindle_8th_Gen | sed 's/"/\n/g' | grep bin >>tmp
-curl --retry 12 --retry-all-errors https://www.amazon.com/update_Kindle_10th_Gen | sed 's/"/\n/g' | grep bin >>tmp
-curl --retry 12 --retry-all-errors https://www.amazon.com/update_Kindle_11th_Gen | sed 's/"/\n/g' | grep bin >>tmp
-curl --retry 12 --retry-all-errors https://www.amazon.com/update_Kindle_11th_Gen_2024 | sed 's/"/\n/g' | grep bin >>tmp
-curl --retry 12 --retry-all-errors https://www.amazon.com/update_Kindle_Colorsoft_2024 | sed 's/"/\n/g' | grep bin >>tmp
-curl --retry 12 --retry-all-errors https://www.amazon.com/update_Kindle_Oasis_8th_Gen | sed 's/"/\n/g' | grep bin >>tmp
-curl --retry 12 --retry-all-errors https://www.amazon.com/update_Kindle_Oasis_9th_Gen | sed 's/"/\n/g' | grep bin >>tmp
-curl --retry 12 --retry-all-errors https://www.amazon.com/update_Kindle_Oasis_10th_Gen | sed 's/"/\n/g' | grep bin >>tmp
-curl --retry 12 --retry-all-errors https://www.amazon.com/update_Kindle_Paperwhite_6th_Gen | sed 's/"/\n/g' | grep bin >>tmp
-curl --retry 12 --retry-all-errors https://www.amazon.com/update_Kindle_Paperwhite_7th_Gen | sed 's/"/\n/g' | grep bin >>tmp
-curl --retry 12 --retry-all-errors https://www.amazon.com/update_Kindle_Paperwhite_10th_Gen | sed 's/"/\n/g' | grep bin >>tmp
-curl --retry 12 --retry-all-errors https://www.amazon.com/update_Kindle_Paperwhite_11th_Gen | sed 's/"/\n/g' | grep bin >>tmp
-curl --retry 12 --retry-all-errors https://www.amazon.com/update_Kindle_Scribe | sed 's/"/\n/g' | grep bin >>tmp
-curl --retry 12 --retry-all-errors https://www.amazon.com/update_kindle_scribe_3rd_generation | sed 's/"/\n/g' | grep bin >>tmp
-curl --retry 12 --retry-all-errors https://www.amazon.com/update_Kindle_Scribe_2024 | sed 's/"/\n/g' | grep bin >>tmp
-curl --retry 12 --retry-all-errors https://www.amazon.com/update_kindle_scribe_colorsoft_1st_generation | sed 's/"/\n/g' | grep bin >>tmp
-curl --retry 12 --retry-all-errors https://www.amazon.com/update_Kindle_Voyage_7th_Gen | sed 's/"/\n/g' | grep bin >>tmp
-curl --retry 12 --retry-all-errors https://www.amazon.com/update_KindlePaperwhite_12th_Gen_2024 | sed 's/"/\n/g' | grep bin >>tmp
+curl --include --retry 12 --retry-all-errors 'https://www.amazon.com/gp/help/customer/display.html?nodeId=GKMQC26VQQMM8XSW' -H 'User-Agent: Mozilla/5.0 (X11; Linux x86_64; rv:78.0) Gecko/20100101 Firefox/78.0' -H 'Accept: text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,*/*;q=0.8' -H 'Accept-Language: en-US,en;q=0.5' -H 'Referer: https://www.amazon.com/gp/help/customer/display.html?nodeId=200529680' -H 'Upgrade-Insecure-Requests: 1' -H 'Cache-Control: max-age=0' -H 'TE: Trailers' | sed 's/"/\n/g' | grep bin | grep https >tmp
+curl --include --retry 12 --retry-all-errors https://www.amazon.com/update_Kindle_7th_Gen | sed 's/"/\n/g' | grep bin >>tmp
+curl --include --retry 12 --retry-all-errors https://www.amazon.com/update_Kindle_8th_Gen | sed 's/"/\n/g' | grep bin >>tmp
+curl --include --retry 12 --retry-all-errors https://www.amazon.com/update_Kindle_10th_Gen | sed 's/"/\n/g' | grep bin >>tmp
+curl --include --retry 12 --retry-all-errors https://www.amazon.com/update_Kindle_11th_Gen | sed 's/"/\n/g' | grep bin >>tmp
+curl --include --retry 12 --retry-all-errors https://www.amazon.com/update_Kindle_11th_Gen_2024 | sed 's/"/\n/g' | grep bin >>tmp
+curl --include --retry 12 --retry-all-errors https://www.amazon.com/update_Kindle_Colorsoft_2024 | sed 's/"/\n/g' | grep bin >>tmp
+curl --include --retry 12 --retry-all-errors https://www.amazon.com/update_Kindle_Oasis_8th_Gen | sed 's/"/\n/g' | grep bin >>tmp
+curl --include --retry 12 --retry-all-errors https://www.amazon.com/update_Kindle_Oasis_9th_Gen | sed 's/"/\n/g' | grep bin >>tmp
+curl --include --retry 12 --retry-all-errors https://www.amazon.com/update_Kindle_Oasis_10th_Gen | sed 's/"/\n/g' | grep bin >>tmp
+curl --include --retry 12 --retry-all-errors https://www.amazon.com/update_Kindle_Paperwhite_6th_Gen | sed 's/"/\n/g' | grep bin >>tmp
+curl --include --retry 12 --retry-all-errors https://www.amazon.com/update_Kindle_Paperwhite_7th_Gen | sed 's/"/\n/g' | grep bin >>tmp
+curl --include --retry 12 --retry-all-errors https://www.amazon.com/update_Kindle_Paperwhite_10th_Gen | sed 's/"/\n/g' | grep bin >>tmp
+curl --include --retry 12 --retry-all-errors https://www.amazon.com/update_Kindle_Paperwhite_11th_Gen | sed 's/"/\n/g' | grep bin >>tmp
+curl --include --retry 12 --retry-all-errors https://www.amazon.com/update_Kindle_Scribe | sed 's/"/\n/g' | grep bin >>tmp
+curl --include --retry 12 --retry-all-errors https://www.amazon.com/update_kindle_scribe_3rd_generation | sed 's/"/\n/g' | grep bin >>tmp
+curl --include --retry 12 --retry-all-errors https://www.amazon.com/update_Kindle_Scribe_2024 | sed 's/"/\n/g' | grep bin >>tmp
+curl --include --retry 12 --retry-all-errors https://www.amazon.com/update_kindle_scribe_colorsoft_1st_generation | sed 's/"/\n/g' | grep bin >>tmp
+curl --include --retry 12 --retry-all-errors https://www.amazon.com/update_Kindle_Voyage_7th_Gen | sed 's/"/\n/g' | grep bin >>tmp
+curl --include --retry 12 --retry-all-errors https://www.amazon.com/update_KindlePaperwhite_12th_Gen_2024 | sed 's/"/\n/g' | grep bin >>tmp
 
 #wget https://www.amazon.cn/Kindle8Notes -O Kindle_8th_zh.html
 #wget https://www.amazon.cn/Kindle10Notes -O Kindle_10th_zh.html
@@ -74,7 +74,7 @@ wget https://s3.amazonaws.com/firmwarereleasenotes/update_kindle_scribe_colorsof
 wget https://s3.amazonaws.com/firmwarereleasenotes/update_kindle_scribe_colorsoft_1st_generation/ATVPDKIKX0DER/en_US.html -O KindleScribeColorsoft_1st_en.html
 wget https://s3.amazonaws.com/firmwarereleasenotes/update_kindle_voyage/AAHKV2X7AFYLW/zh_CN.html -O Kindle_Voyage_7th_zh.html
 wget https://s3.amazonaws.com/firmwarereleasenotes/update_kindle_voyage/ATVPDKIKX0DER/en_US.html -O Kindle_Voyage_7th_en.html
-cat tmp | sort | uniq >KindleE-ReaderSoftwareUpdates
+cat tmp | sed 's/location: //' | sed 's/\r$//' | sort | uniq >KindleE-ReaderSoftwareUpdates
 rm tmp
 git add .
 git commit -m "`date`"
